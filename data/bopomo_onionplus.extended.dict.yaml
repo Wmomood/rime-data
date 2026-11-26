@@ -1,0 +1,2336 @@
+# Rime dictionary
+# encoding: utf-8
+# 《洋蔥 plus 注音 字詞庫匯入頁》
+# 『洋蔥』製作
+# 中文字詞標註使用拼音
+---
+name: bopomo_onionplus.extended
+version: "202301"
+sort: by_weight
+vocabulary: essay-zh-hant-mc
+#use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin_onion
+  - terra_pinyin_onion_add
+#  - mixin_bpmf  #內嵌注音文，混打。
+  - phrases.chtp
+#  - phrases.cht
+  - space  #空格，特殊方案用
+...
+##### 以下可自行添加詞句 #####
+
+#星鐵
+冥火大公	ming2 huo3 da4 gong1
+阿卡什	a1 ka3 shen1
+杜布拉	du1 bu4 la1
+卡翠娜	ka3 cui4 na4
+康士坦絲	kang1 shi4 tan3 si1
+
+三月七	san1 yue4 qi1
+丹恆	dan1 heng2
+姬子	ji1 zi3
+瓦爾特	wa3 er3 te4
+卡芙卡	ka3 fu1 ka3
+銀狼	yin2 lang2
+阿蘭	a1 lan2
+艾絲妲	ai4 si1 da2
+黑塔	hei1 ta3
+布洛妮婭	bu4 luo4 ni2 ya4
+希兒	xi1 er2
+希露瓦	xi1 lu4 wa1
+傑帕德	jie2 pa4 de2
+娜塔莎	na4 ta1 sha1
+佩拉	pei4 la1
+克拉拉	ke1 la1 la1
+桑博	sang1 bo2
+虎克	hu3 ke4
+玲可	ling2 ke3
+盧卡	lu2 ka3
+托帕	tuo1 pa1
+青雀	qing1 que4
+停雲	ting2 yun2
+羅剎	luo2 cha2
+景元	jing3 yuan2
+刃	ren4
+素裳	su4 chang2
+馭空	yu4 kong1
+符玄	fu2 xuan2
+彥卿	yan4 qing3
+桂乃芬	gui4 nai3 fen1
+白露	bai2 lu4
+鏡流	jing4 liu2
+雪衣	xue3 yi1
+寒鴉	han2 ya1
+藿藿	xun2 xun2
+銀枝	yin2 zhi1
+真理醫生	zhen1 li3 yi1 sheng1
+花火	hua1 huo3
+黑天鵝	hei1 tian1 e2
+米沙	mi3 sha1
+開拓者	kai1 tuo1 zhe3
+
+
+
+#5.0後角色
+卡齊娜	ka3 qi2 na4
+伊安珊	yi1 an1 shan1
+希諾寧	xi1 nuo4 ning2
+恰斯卡	qia4 si1 ka3
+茜特菈莉	xi1 te4 la1 li4
+基尼奇	ji1 ni2 qi2
+瑪拉妮	ma3 la1 ni2
+瑪薇卡	ma3 wei1 ka3
+歐洛倫	ou1 luo4 lun2
+
+
+#4.0後角色
+佩露薇利	pei4 lu4 wei1 li4	1
+厄歌莉婭	e4 ge1 li3 ya4	1
+娜維婭	na4 wei1 ya4	1
+夏洛蒂	xia4 luo2 di4	1
+萊歐斯利	lai4 ou1 si1 li4	1
+希格雯	xi1 ge2 wen2	1
+克洛琳德	ke1 luo4 lin2 de2	1
+阿蕾奇諾	a1 lei2 qi2 nuo2	1 
+芙寧娜	fu2 ning2 na4	1
+那維萊特	na4 wei1 lai4 te4	1
+
+#地名
+蒙德	meng2 de2	1
+璃月	li2 yue4	1
+稻妻	dao4 qi1	1
+須彌	xu1 mi2	1
+龍脊雪山	long2 ji3 xue3 shan1	1
+淵下宮	yuan1 xia4 gong1	1
+層岩巨淵	ceng2 yan2 ju4 yuan1	1
+金蘋果群島	jin1 ping2 guo3 qun2 dao3	1
+
+
+#祕境
+忘卻之峽	wang4 que4 zhi1 xia2
+太山府	tai4 shan1 fu3	1
+菫色之庭	jin3 se4 zhi1 ting2	1
+昏識塔	hun1 shi2 ta3	1
+塞西莉亞苗圃	sai1 xi1 li4 ya1 miao2 pu3	1
+震雷連山密宮	zhen4 lei2 lian2 shan1 mi4 gong1	1
+砂流之庭	sha1 liu2 zhi1 ting2	1
+有頂塔	you3 ding3 ta3	1
+仲夏庭園	zhong4 xia4 ting2 yuan2	1
+銘記之谷	ming2 ji4 zhi1 gu3	1
+芬德尼爾之頂	fen1 de2 ni2 er3 zhi1 ding3	1
+孤雲淩霄之處	gu1 yun2 ling2 xiao1 zhi1 chu4	1
+無妄引咎密宮	wu2 wang4 yin3 jiu4 mi4 gong1	1
+華池岩岫	hua2 chi2 yan2 xiu4	1
+山脊守望	shan1 ji3 shou3 wang4	1
+沉眠之庭	chen2 mian2 zhi1 ting2	1
+岩中幽谷	yan2 zhong1 you1 gu3	1
+緣覺塔	yuan2 jiao4 ta3	1
+赤金的城墟	chi4 jin1 de5 cheng2 xu1	1
+
+#聖遺物套裝
+角鬥士的終幕禮	jiao3 dou4 shi4 de5 zhong1 mu4 li3	1
+流浪大地的樂團	liu2 lang4 da4 di4 de5 le4 tuan2	1
+冰風迷途的勇士	bing1 feng1 mi2 tu2 de5 yong3 shi4	1
+沉淪之心	chen2 lun2 zhi1 xin1	1
+平息鳴雷的尊者	ping2 xi1 ming2 lei2 de5 zun1 zhe3	1
+如雷的盛怒	ru2 lei2 de5 sheng4 nu4	1
+被憐愛的少女	bei4 lian2 ai4 de5 shao3 nv3	1
+翠綠之影	cui4 lv4 zhi1 ying3	1
+千岩牢固	qian1 yan2 lao2 gu4	1
+蒼白之火	cang1 bai2 zhi1 huo3	1
+熾烈的炎之魔女	chi4 lie4 de5 yan2 zhi1 mo2 nv3	1
+渡過烈火的賢人	du4 guo4 lie4 huo3 de5 xian2 ren2	1
+昔日宗室之儀	xi1 ri4 zong1 shi4 zhi1 yi2	1
+染血的騎士道	ran3 xue4 de5 qi2 shi4 dao4	1
+逆飛的流星	ni4 fei1 de5 liu2 xing1	1
+悠古的磐岩	you1 gu3 de5 pan2 yan2	1
+追憶之注連	zhui1 yi4 zhi1 zhu4 lian2	1
+絕緣之旗印	jue2 yuan2 zhi1 qi2 yin4	1
+華館夢醒形骸記	hua2 guan3 meng4 xing3 xing2 hai2 ji4	1
+海染硨磲	hai3 ran3 che1 qu2	1
+辰砂往事錄	chen2 sha1 wang3 shi4 lu4	1
+來歆餘響	lai2 xin1 yu2 xiang3	1
+飾金之夢	shi4 jin1 zhi1 meng4	1
+深林的記憶	shen1 lin2 de5 ji4 yi4	1
+樂園遺落之花	le4 yuan2 yi2 luo4 zhi1 hua1	1
+沙上樓閣史話	sha1 shang4 lou2 ge2 shi3 hua4	1
+
+#物品
+風神瞳	feng1 shen2 tong2	1
+岩神瞳	yan2 shen2 tong2	1
+雷神瞳	lei2 shen2 tong2	1
+草神瞳	cao3 shen2 tong2	1
+緋紅玉髓	fei1 hong2 yu4 sui3	1
+鍵紋	jian4 wen2	1
+流明晶石	liu2 ming2 jing1 shi2	1
+旋曜玉帛	xuan2 yao4 yu4 bo2	1
+海螺	hai3 luo2	1
+原石	yuan2 shi2	1
+派蒙	pai4 meng2	1
+每日委託	mei3 ri4 wei3 tuo1	1
+七聖召喚	qi1 sheng4 zhao4 huan4	1
+七天神像	qi1 tian1 shen2 xiang4	1
+傳送錨點	chuan2 song4 mao2 dian3	1
+摩拉	mo2 la1	1
+地脈之花	di4 mai4 zhi1 hua1	1
+浪船	lang4 chuan2	1
+紀行	ji4 hang2	1
+深境螺旋	shen1 jing4 luo2 xuan2	1
+濃縮樹脂	nong2 suo1 shu4 zhi1	1
+塵歌壺	chen2 ge1 hu2	1
+
+#角色
+斯卡拉姆齊	si1 ka3 la1 mu3 qi2	1
+散兵	san3 bing1	1
+菲米尼	fei1 mi3 ni2	1  
+琳妮特	lin2 ni3 te4	1
+綺良良	qi3 liang2 liang2	1
+卡維	ka3 wei1	1
+米卡	mi3 ka3	1
+瑤瑤	yao2 yao2	1
+琺露珊	yao2 lu4 shan1	1
+萊依拉	lai4 yi1 la1	1
+坎蒂絲	kan4 di1 si1	1
+多莉	duo1 li3	1
+柯萊	ke4 lai2	1
+鹿野院平藏	lu4 ye3 yuan2 ping2 cang2	1
+久岐忍	jiu3 qi1 ren3	1
+雲堇	yun2 jin3	1
+五郎	wu3 lang2	1
+托馬	tuo1 ma3	1
+九條裟羅	jiu3 tiao2 sha1 luo2	1
+早柚	zao3 you2	1
+煙緋	yan1 fei1	1
+辛焱	xin1 yan2	1
+行秋	xing2 qiu1	1
+重雲	zhong4 yun2	1
+北斗	bei3 dou3	1
+凝光	ning2 guang1	1
+香菱	xiang1 ling2	1
+羅莎莉亞	luo2 sha1 li3 ya4	1
+迪奧娜	di2 ao4 nuo2	1
+雷澤	lei2 ze2	1
+砂糖	sha1 tang2	1
+菲謝爾	fei1 xie3 er3	1
+班尼特	ban1 ni2 te4	1
+芭芭拉	ba1 ba1 la1	1
+諾艾爾	nuo4 ai4 er3	1  
+凱亞	kai4 ya4	1
+麗莎	li4 sha1	1
+安柏	an1 bo2	1
+林尼	lin2 ni2	1
+白朮	bai2 zhu3	1
+迪希雅	di2 xi1 ya3	1
+艾爾海森	ai4 er3 hai3 sen1	1
+流浪者	liu2 lang4 zhe3	1
+納西妲	na4 xi1 da2	1
+妮露	ni2 lu4	1
+賽諾	sai4 nuo2	1
+提納里	ti2 na4 li3	1
+夜蘭	ye4 lan2	1
+神里綾人	shen2 li3 ling2 ren2	1
+八重神子	ba1 chong2 shen2 zi3	1
+申鶴	shen1 he2	1
+荒瀧一斗	huang1 lao2 yi1 dou3	1
+珊瑚宮心海	shan1 hu2 gong1 xin1 hai3	1
+埃洛伊	ai4 luo2 yi1	1
+雷電將軍	lei2 dian4 jiang1 jun1	1
+宵宮	xiao1 gong1	1
+神里綾華	shen2 li3 ling2 hua2	1
+楓原萬葉	feng1 yuan2 wan4 ye4	1 
+優菈	you1 la4	1
+胡桃	hu2 tao2	1
+魈	mei2	1
+甘雨	gan1 yu3	1
+阿貝多	a1 bei4 duo1	1
+鍾離	zhong1 li2	1
+達達利亞	da2 da2 li4 ya4	1
+可莉	ke3 li3	1
+溫迪	wen1 di1	1
+七七	qi1 qi1	1
+刻晴	ke4 qing1	1
+莫娜	mo4 na4	1
+迪盧克	di2 lu2 ke1	1
+琴	qin2	1
+旅行者	lv3 xing2 zhe3	1
+空	kong1	1
+熒	ying3	1
+
+#收集物
+旋曜玉帛	xuan2 yao4 yu4 bo2	1
+風車菊	feng1 che1 ju4	1
+蒲公英籽	pu2 gong1 ying1 zi3	1
+慕風蘑菇	mu4 feng1 mo2 gu1	1
+嘟嘟蓮	du1 du1 lian2	1
+鉤鉤果	gou1 gou1 guo3	1
+落落莓	luo4 luo4 mei2	1  
+小燈草	xiao3 deng1 cao3	1
+塞西莉亞花	sai1 xi1 li3 ya4 hua1	1
+絕雲椒椒	jue2 yun2 jiao1 jiao1	1
+霓裳花	ni2 chang2 hua1	1
+琉璃百合	liu2 li2 bai3 he2	1
+清心	qing1 xin1	1
+琉璃袋	liu2 li2 dai4	1
+夜泊石	ye4 bo2 shi2	1
+星螺	xing1 luo2	1
+石珀	shi2 po4	1
+緋櫻繡球	fei1 ying1 xiu4 qiu2	1
+鳴草	ming2 cao3	1
+血斛	xue4 ding3	1
+海靈芝	hai3 ling2 zhi1	1
+鬼兜蟲	gui3 dou1 chong2	1
+晶化骨髓	jing1 hua4 gu3 sui3	1
+珊瑚真珠	shan1 hu2 zhen1 zhu1	1
+天雲草實	tian1 yun2 cao3 shi2	1
+幽燈蕈	you1 deng1 rou4	1
+樹王聖體菇	shu4 wang2 sheng4 ti3 gu1	1
+帕蒂沙蘭	pa4 di4 sha1 lan2	1
+月蓮	yue4 lian2	1
+劫波蓮	jie2 bo1 lian2	1
+聖金蟲	sheng4 jin1 chong2	1
+赤念果	chi4 nian4 guo3	1
+沙脂蛹	sha1 zhi1 yong3	1
+悼靈花	dao4 ling2 hua1	1
+萬相石	wan4 xiang4 shi2	1
+虹彩薔薇	hong2 cai3 qiang2 wei4	1
+柔燈鈴	rou2 deng1 ling2	1
+海露花	hai3 lu4 hua1	1
+
+
+#敵人
+無相之風	wu2 xiang4 zhi1 feng1	1
+無相之雷	wu2 xiang4 zhi1 lei2	1
+無相之岩	wu2 xiang4 zhi1 yan2	1
+無相之冰	wu2 xiang4 zhi1 bing1	1 
+無相之火	wu2 xiang4 zhi1 huo3	1
+無相之水	wu2 xiang4 zhi1 shui3	1
+無相之草	wu2 xiang4 zhi1 cao3	1
+急凍樹	ji2 dong4 shu4	1
+爆炎樹	bao4 yan2 shu4	1
+純水精靈	chun2 shui3 jing1 ling2	1
+古岩龍蜥	gu3 yan2 long2 xi1	1
+魔偶劍鬼	mo2 ou1 jian4 gui3	1
+恆常機關陣列	heng2 chang2 ji1 guan1 zhen4 lie4	1
+雷音權現	lei2 yin1 quan2 xian4	1
+黃金王獸	huang2 jin1 wang2 shou4	1
+深海龍蜥群	shen1 hai3 long2 xi1 qun2	1
+遺蹟巨蛇	yi2 ji1 ju4 she2	1
+掣電樹	che4 dian4 shu4	1
+翠翎恐蕈	cui4 ling2 kong3 rou4	1
+兆載永劫龍獸	zhao4 zai4 yong3 jie2 long2 shou4	1
+半永恆統轄矩陣	ban4 yong3 heng2 tong3 xia2 ju3 zhen1	1
+風蝕沙蟲	feng1 shi2 sha1 chong2	1
+深罪浸禮者	shen1 zui4 jin4 li3 zhe3	1
+鐵甲熔火帝皇	tie3 jia4 rong2 huo3 di4 huang2	1
+冰風組曲	bing1 feng1 zu3 qu3	1
+北風的王狼	bei3 feng1 de5 wang2 lang2	1
+風魔龍	feng1 mo2 long2	1
+公子	gong1 zi5	1
+若陀龍王	ruo4 tuo2 long2 wang2	1
+女士	nv3 shi4	1
+禍津御建鳴神命	huo4 jin1 yu4 jian4 ming2 shen2 ming4	1
+正機之神	zheng4 ji1 zhi1 shen2	1
+阿佩普的綠洲守望者	a1 pei2 pu3 de5 lv4 zhou1 shou3 wang4 zhe3	1
+
+
+
+# 原神曲目
+塵間星旅	chen2 jian1 xing1 lv3
+飫沃坡野	yu4 wo4 po1 ye3
+晨風拭愜氣	chen2 feng1 shi4 qie4 qi4
+健行的膂力	jian4 xing2 de5 lv3 li4
+晚間暢愜	wan3 jian1 chang4 qie4
+湛火的土壤	zhan4 huo3 de5 tu3 rang3
+果香漫徑	guo3 xiang1 man4 jing4
+勤倦之畛	qin2 juan4 zhi1 zhen3
+夜伴微火	ye4 ban4 wei1 huo3
+酣戰之始	han1 zhan4 zhi1 shi3
+嵾峨之冠	cen1 e2 zhi1 guan1
+隨流炎而行	sui2 liu2 yan2 er2 xing2
+源火的深隍	yuan2 huo3 de5 shen1 huang2
+如鑄星之業	ru2 zhu4 xing1 zhi1 ye4
+從游於識海	cong2 you2 yu2 shi2 hai3
+圖蘭的殘垣	tu2 lan2 de5 can2 yuan2
+遺宮幽寂	yi2 gong1 you1 ji4
+頑傲者的喧諍	wan2 ao4 zhe3 de5 xuan1 zheng4
+撼星的旅路	han4 xing1 de5 lv3 lu4
+稱賢者的真意	cheng1 xian2 zhe3 de5 zhen1 yi4
+他的選擇	ta1 de5 xuan3 ze2
+熠熠有輝	yi4 yi4 you3 hui1
+沉眠於是夜	chen2 mian2 yu2 shi4 ye4
+鐫刻成憶	juan1 ke4 cheng2 yi4
+桃符春敘	tao2 fu2 chun1 xu4
+將世事高枕	jiang1 shi4 shi4 gao1 zhen3
+熏沐的香氛	xun1 mu4 de5 xiang1 fen1
+繚繞於思	liao2 rao4 yu2 si1
+不覺入夢裡	bu4 jue2 ru4 meng4 li3
+昕宵如遊夢	xin1 xiao1 ru2 you2 meng4
+悄長的菌群	qiao1 zhang3 de5 jun1 qun2
+泉與岩的交奏	quan2 yu3 yan2 de5 jiao1 zou4
+所見非同	suo3 jian4 fei1 tong2
+晦夜盡處的焰光	hui4 ye4 jin4 chu4 de5 yan4 guang1
+愚火為伍	yu2 huo3 wei2 wu3
+狩夜不熄	shou4 ye4 bu4 xi1
+將黯黲煉作爍火	jiang1 an4 can3 lian4 zuo4 shuo4 huo3
+更生的焰主	geng1 sheng1 de5 yan4 zhu3
+昭若千陽	zhao1 ruo4 qian1 yang2
+自燎火而歸	zi4 liao2 huo3 er2 gui1
+赴去心如一	fu4 qu4 xin1 ru2 yi1
+為這地上的眾生	wei4 zhe4 di4 shang4 de5 zhong4 sheng1
+只為重逢的確守	zhi3 wei4 chong2 feng2 de5 que4 shou3
+遠行在歸處	yuan3 xing2 zai4 gui1 chu4
+名刻的真意	ming2 ke4 de5 zhen1 yi4
+生萌藏心念	sheng1 meng2 cang2 xin1 nian4
+於翼之下	yu2 yi4 zhi1 xia4
+長明徹徹	chang2 ming2 che4 che4
+煙染諸色	yan1 ran3 zhu1 se4
+黑曜石的眷憐	hei1 yao4 shi2 de5 juan4 lian2
+夢的享宴	meng4 de5 xiang3 yan4
+曉爾長夢	xiao3 er3 chang2 meng4
+蘑神與鬥士	mo2 shen2 yu3 dou4 shi4
+這是龍的國度	zhe4 shi4 long2 de5 guo2 du4
+不息的思志	bu4 xi1 de5 si1 zhi4
+莫夜卻非獨行	mo4 ye4 que4 fei1 du2 xing2
+蝕形的災祲	shi2 xing2 de5 zai1 jin1
+熾烈的還魂詩·再現	chi4 lie4 de5 hai2 hun2 shi1 · zai4 xian4
+受龍所選的試煉	shou4 long2 suo3 xuan3 de5 shi4 lian4
+幽谷舟詠·其三	you1 gu3 zhou1 yong3 · qi2 san1
+八奇煉桃都	ba1 qi2 lian4 tao2 dou1
+此身自有清濁辨	ci3 shen1 zi4 you3 qing1 zhuo2 bian4
+心同碧水映玉鸞	xin1 tong2 bi4 shui3 ying4 yu4 luan2
+船明傘彩	chuan2 ming2 san3 cai3
+玫色的風語	mei2 se4 de5 feng1 yu3
+銃彈定準	chong4 dan4 ding4 zhun3
+晴雲漫雪袂	qing2 yun2 man4 xue3 mei4
+春煦瑞彩時	chun1 xu4 rui4 cai3 shi2
+閒看華池萬塢雲	xian2 kan4 hua2 chi2 wan4 wu4 yun2
+天靜先借風作籟	tian1 jing4 xian1 jie4 feng1 zuo4 lai4
+百羽綴袖	bai3 yu3 zhui4 xiu4
+裁紅落似錦	cai2 hong2 luo4 si4 jin3
+遲至的悼魂歌	chi2 zhi4 de5 dao4 hun2 ge1
+未始的供獻頌	wei4 shi3 de5 gong4 xian4 song4
+砂王的巡行	sha1 wang2 de5 xun2 xing2
+律重令隨	lv4 zhong4 ling4 sui2
+秉燭貫夜	bing3 zhu2 guan4 ye4
+海露歡遊	hai3 lu4 huan1 you2
+輕裳閒息	qing1 chang2 xian2 xi1
+餘馥的秘言	yu2 fu4 de5 mi4 yan2
+淺露的香調	qian3 lu4 de5 xiang1 diao4
+故途新知	gu4 tu2 xin1 zhi1
+暖泉的遐仰	nuan3 quan2 de5 xia2 yang3
+鼠兔之舞	shu3 tu4 zhi1 wu3
+狩龍行旅	shou4 long2 xing2 lv3
+極效方案	ji2 xiao4 fang1 an4
+淬古鍛名	cui4 gu3 duan4 ming2
+聚光之刻	ju4 guang1 zhi1 ke4
+約定的此側	yue1 ding4 de5 ci3 ce4
+調停的樂詩	diao4 ting2 de5 yue4 shi1
+七帷的暮雨	qi1 wei2 de5 mu4 yu3
+錦箋寄梅春	jin3 jian1 ji4 mei2 chun1
+炎霞燎徹	yan2 xia2 liao2 che4
+空動的無限星	kong1 dong4 de5 wu2 xian4 xing1
+曜間浮行	yao4 jian1 fu2 xing2
+灼火之心	zhuo2 huo3 zhi1 xin1
+流光的箴訓	liu2 guang1 de5 zhen1 xun4
+靈與沙的密諭	ling2 yu3 sha1 de5 mi4 yu4
+鏡中日暖	jing4 zhong1 ri4 nuan3
+夜誕的花冠	ye4 dan4 de5 hua1 guan1
+瞢暗的一極	meng2 an4 de5 yi1 ji2
+如歌的秘數	ru2 ge1 de5 mi4 shu4
+煙漫露結	yan1 man4 lu4 jie2
+千載雲已去	qian1 zai3 yun2 yi3 qu4
+木樨旁的舊憶	mu4 xi1 pang2 de5 jiu4 yi4
+游轉的曙色	you2 zhuan3 de5 shu3 se4
+懸風於心	xuan2 feng1 yu2 xin1
+鈴鼓隨花	ling2 gu3 sui2 hua1
+蘆笛的彼方	lu2 di2 de5 bi3 fang1
+霜空曜明	shuang1 kong1 yao4 ming2
+祭星者的夢語	ji4 xing1 zhe3 de5 meng4 yu3
+暮深天靜	mu4 shen1 tian1 jing4
+故年往跡	gu4 nian2 wang3 ji4
+瞑色的歸途	ming2 se4 de5 gui1 tu2
+芳草染夕煙	fang1 cao3 ran3 xi1 yan1
+山鳴谷應	shan1 ming2 gu3 ying4
+鹿縱踏舞	lu4 zong4 ta4 wu3
+風止水忘時	feng1 zhi3 shui3 wang4 shi2
+浮夢終作雨	fu2 meng4 zhong1 zuo4 yu3
+舒翼乘雲	shu1 yi4 cheng2 yun2
+蒼鷲之頌	cang1 jiu4 zhi1 song4
+淺斟的暇刻	qian3 zhen1 de5 xia2 ke4
+泛羽流月	fan4 yu3 liu2 yue4
+漸落的晨曦	jian4 luo4 de5 chen2 xi1
+空餘殘暉	kong1 yu2 can2 hui1
+舊鄉的歎音	jiu4 xiang1 de5 tan4 yin1
+為一座無名的墳塋	wei4 yi1 zuo4 wu2 ming2 de5 fen2 ying2
+何日之夢	he2 ri4 zhi1 meng4
+蒼原的巇徑	cang1 yuan2 de5 xi1 jing4
+故行已去	gu4 xing2 yi3 qu4
+妄執的冷燼	wang4 zhi2 de5 leng3 jin4
+流灰地的遺聲	liu2 hui1 di4 de5 yi2 sheng1
+幻象中的慰撫	huan4 xiang4 zhong1 de5 wei4 fu3
+暮火將熄	mu4 huo3 jiang1 xi1
+僭王的威烈	jian4 wang2 de5 wei1 lie4
+聖律桓桓	sheng4 lv4 huan2 huan2
+幽室泠泠	you1 shi4 ling2 ling2
+殞塵的黯星	yun3 chen2 de5 an4 xing1
+造始的噩兆	zao4 shi3 de5 e4 zhao4
+戢翼無歸	ji2 yi4 wu2 gui1
+淪蟄的緬憶	lun2 zhe2 de5 mian3 yi4
+一別如羽	yi1 bie2 ru2 yu3
+幽願難釋	you1 yuan4 nan2 shi4
+灼夜之淚	zhuo2 ye4 zhi1 lei4
+為一切戰爭的終結	wei4 yi1 qie4 zhan4 zheng1 de5 zhong1 jie2
+鑄錐之刻	zhu4 zhui1 zhi1 ke4
+奉熾火以希望	feng4 chi4 huo3 yi3 xi1 wang4
+隨行逐飛	sui2 xing2 zhu2 fei1
+眾靈的迷戲	zhong4 ling2 de5 mi2 xi4
+納塔	na4 ta3
+焚燔的歡歌	fen2 fan2 de5 huan1 ge1
+炎色的祝頌	yan2 se4 de5 zhu4 song4
+聖焰的嘉賜	sheng4 yan4 de5 jia1 ci4
+喧聲凝寂時	xuan1 sheng1 ning2 ji4 shi2
+無舞之舞	wu2 wu3 zhi1 wu3
+夜影沉綿	ye4 ying3 chen2 mian2
+紫錦草的閒息	zi3 jin3 cao3 de5 xian2 xi1
+炎石的王庭	yan2 shi2 de5 wang2 ting2
+所愛者的遺贈	suo3 ai4 zhe3 de5 yi2 zeng4
+金珀的回聲	jin1 po4 de5 hui2 sheng1
+脊石的秘藏	ji3 shi2 de5 mi4 cang2
+岩脈的節律	yan2 mai4 de5 jie2 lv4
+烈陽的禱祀	lie4 yang2 de5 dao3 si4
+崖砦遊風	ya2 zhai4 you2 feng1
+玉裙月帔	yu4 qun2 yue4 pei4
+歸火的傳詠	gui1 huo3 de5 chuan2 yong3
+山王的回火頌	shan1 wang2 de5 hui2 huo3 song4
+浪暖風柔	lang4 nuan3 feng1 rou2
+木槿花的遐想	mu4 jin3 hua1 de5 xia2 xiang3
+流泉醉月	liu2 quan2 zui4 yue4
+藍岸鈴語	lan2 an4 ling2 yu3
+虹彩綴花	hong2 cai3 zhui4 hua1
+水色約定	shui3 se4 yue1 ding4
+悠逸的時日	you1 yi4 de5 shi2 ri4
+炎威的燎告	yan2 wei1 de5 liao2 gao4
+熾烈的還魂詩·眾靈頌	chi4 lie4 de5 hai2 hun2 shi1 · zhong4 ling2 song4
+熾烈的還魂詩·節錄	chi4 lie4 de5 hai2 hun2 shi1 · jie2 lu4
+時無重至	shi2 wu2 chong2 zhi4
+幽域翛翛	you1 yu4 xiao1 xiao1
+俾夜為火	bi3 ye4 wei2 huo3
+繼古述名	ji4 gu3 shu4 ming2
+厄境之喻	e4 jing4 zhi1 yu4
+小小的新朋友	xiao3 xiao3 de5 xin1 peng2 you5
+綿遠的訣別	mian2 yuan3 de5 jue2 bie2
+逐火如弦	zhu2 huo3 ru2 xian2
+述予簇花	shu4 yu3 cu4 hua1
+謐息之夢	mi4 xi1 zhi1 meng4
+盛宴與嘉賞	sheng4 yan4 yu3 jia1 shang3
+邃穀泉鳴	sui4 gu3 quan2 ming2
+當雨雲聚集時	dang1 yu3 yun2 ju4 ji2 shi2
+霧靄中的節令	wu4 ai3 zhong1 de5 jie2 ling4
+綠咬鵑的遊縈	lv4 yao3 juan1 de5 you2 ying2
+純稚的奇想	chun2 zhi4 de5 qi2 xiang3
+夕照留歌	xi1 zhao4 liu2 ge1
+靜夜的輕語	jing4 ye4 de5 qing1 yu3
+暮色落音塵	mu4 se4 luo4 yin1 chen2
+笛中夜明	di2 zhong1 ye4 ming2
+芊萰一夢	qian1 lian2 yi1 meng4
+待曉籟再度奏響	dai4 xiao3 lai4 zai4 du4 zou4 xiang3
+風清月白	feng1 qing1 yue4 bai2
+餘霞散綺	yu2 xia2 san4 qi3
+曠古的榮業	kuang4 gu3 de5 rong2 ye4
+天光煦暖	tian1 guang1 xu4 nuan3
+柔風凝湛之地	rou2 feng1 ning2 zhan4 zhi1 di4
+靜界淺眠	jing4 jie4 qian3 mian2
+溶水的鈴歌	rong2 shui3 de5 ling2 ge1
+夜願悠遠	ye4 yuan4 you1 yuan3
+懸木的捕風人	xuan2 mu4 de5 bu3 feng1 ren2
+舊世流光	jiu4 shi4 liu2 guang1
+幻寫遊音	huan4 xie3 you2 yin1
+鑠石鑄金	shuo4 shi2 zhu4 jin1
+深壑的煆火	shen1 he4 de5 duan4 huo3
+交疊的礫岩	jiao1 die2 de5 li4 yan2
+燼上築塔	jin4 shang4 zhu4 ta3
+盜火者的追憶	dao4 huo3 zhe3 de5 zhui1 yi4
+熾土熏灼	chi4 tu3 xun1 zhuo2
+墜火與浮煙	zhui4 huo3 yu3 fu2 yan1
+艱虞之途	jian1 yu2 zhi1 tu2
+日暮途遠	ri4 mu4 tu2 yuan3
+靈與塵的挽歌	ling2 yu3 chen2 de5 wan3 ge1
+洞隱燭微	dong4 yin3 zhu2 wei1
+蒼原的頌靈歌	cang1 yuan2 de5 song4 ling2 ge1
+預見的征程	yu4 jian4 de5 zheng1 cheng2
+熾火之舞	chi4 huo3 zhi1 wu3
+厄夜深冥	e4 ye4 shen1 ming2
+輝閃馳行	hui1 shan3 chi2 xing2
+遊光逐虹	you2 guang1 zhu2 hong2
+經過	jing1 guo4
+記憶の旅	ji4 yi4 no tabi
+風輕雲暖	feng1 qing1 yun2 nuan3
+巧遇的漫想	qiao3 yu4 de5 man4 xiang3
+夜色溫柔	ye4 se4 wen1 rou2
+醺時輕斟	xun1 shi2 qing1 zhen1
+煒煌的星闕	wei3 huang2 de5 xing1 que4
+榮映的瑰景	rong2 ying4 de5 gui1 jing3
+遐願之地	xia2 yuan4 zhi1 di4
+行於繁花側畔	xing2 yu2 fan2 hua1 ce4 pan4
+夕暮漫遠	xi1 mu4 man4 yuan3
+畫景的遊憩	hua4 jing3 de5 you2 qi4
+林中晨歌	lin2 zhong1 chen2 ge1
+飛鼠進行曲	fei1 shu3 jin4 xing2 qu3
+鷦鷯之歌	jiao1 liao2 zhi1 ge1
+松風拂煦	song1 feng1 fu2 xu4
+山間悠談	shan1 jian1 you1 tan2
+日影斑駁	ri4 ying3 ban1 bo2
+晨曉的縈憶	chen2 xiao3 de5 ying2 yi4
+眠於柔靜之月	mian2 yu2 rou2 jing4 zhi1 yue4
+幽域的先導	you1 yu4 de5 xian1 dao3
+祝頌如夢	zhu4 song4 ru2 meng4
+頌夢的祝禱	song4 meng4 de5 zhu4 dao3
+踏浪逐波	ta4 lang4 zhu2 bo1
+歡夏的存念	huan1 xia4 de5 cun2 nian4
+魔女的茶話會	mo2 nv3 de5 cha2 hua4 hui4
+終久的夙諾	zhong1 jiu3 de5 su4 nuo4
+相遇，相別	xiang1 yu4 ， xiang1 bie2
+夜中幻劇	ye4 zhong1 huan4 ju4
+不虞之險	bu4 yu2 zhi1 xian3
+薔薇與燭影之舞	qiang2 wei1 yu3 zhu2 ying3 zhi1 wu3
+訴辯未決	su4 bian4 wei4 jue2
+夢兆的鯨歌	meng4 zhao4 de5 jing1 ge1
+洶潰之刻	xiong1 kui4 zhi1 ke4
+深水的曉諭	shen1 shui3 de5 xiao3 yu4
+失墜的征咎	shi1 zhui4 de5 zheng1 jiu4
+未竟的告白	wei4 jing4 de5 gao4 bai2
+幽厄的不諧音	you1 e4 de5 bu4 xie2 yin1
+歡呼吧，終幕已至	huan1 hu1 ba1 ， zhong1 mu4 yi3 zhi4
+曲終奏雅	qu3 zhong1 zou4 ya3
+裂隙的絲繭	lie4 xi4 de5 si1 jian3
+她曾夢見的晴空	ta1 ceng2 meng4 jian4 de5 qing2 kong1
+清泉之詩	qing1 quan2 zhi1 shi1
+咎證終顯	jiu4 zheng4 zhong1 xian3
+轉生成為鬼兜蟲然後撞翻世界（純享版）	zhuan3 sheng1 cheng2 wei2 gui3 dou1 chong2 ran2 hou4 zhuang4 fan1 shi4 jie4 （ chun2 xiang3 ban3 ）
+舊宴新歌	jiu4 yan4 xin1 ge1
+折軸之刻	zhe2 zhou2 zhi1 ke4
+定極的軌途	ding4 ji2 de5 gui3 tu2
+枕上朝露	zhen3 shang4 zhao1 lu4
+秘逸之榮	mi4 yi4 zhi1 rong2
+砭骨之誡	bian1 gu3 zhi1 jie4
+一雨洗塵痕	yi1 yu3 xi3 chen2 hen2
+刺玫的律度	ci4 mei2 de5 lv4 du4
+染羽裁錦	ran3 yu3 cai2 jin3
+厄月的殛罰	e4 yue4 de5 ji2 fa2
+最初的告別	zui4 chu1 de5 gao4 bie2
+熾砂的密諭	chi4 sha1 de5 mi4 yu4
+燭影之狩	zhu2 ying3 zhi1 shou4
+溫恂的思願	wen1 xun2 de5 si1 yuan4
+宿昔的暖意	su4 xi1 de5 nuan3 yi4
+唯存香跡	wei2 cun2 xiang1 ji4
+眾水的追憶	zhong4 shui3 de5 zhui1 yi4
+燼中歌	jin4 zhong1 ge1
+尋星的遊蹤	xun2 xing1 de5 you2 zong1
+古國的殘夢	gu3 guo2 de5 can2 meng4
+遺城的縈思	yi2 cheng2 de5 ying2 si1
+星界的眷盼	xing1 jie4 de5 juan4 pan4
+龍與勇者的決意	long2 yu3 yong3 zhe3 de5 jue2 yi4
+灼夜歸火	zhuo2 ye4 gui1 huo3
+未行之路	wei4 xing2 zhi1 lu4
+海風的饋贈	hai3 feng1 de5 kui4 zeng4
+時日縈念	shi2 ri4 ying2 nian4
+轉瞬即夜色	zhuan3 shun4 ji2 ye4 se4
+生息如夢	sheng1 xi1 ru2 meng4
+昔時豐饒之地	xi1 shi2 feng1 rao2 zhi1 di4
+劇中塵寰	ju4 zhong1 chen2 huan2
+褪色的秘宴	tui4 se4 de5 mi4 yan4
+此處有龍	ci3 chu4 you3 long2
+疇昔尋芳	chou2 xi1 xun2 fang1
+唯餘潮痕	wei2 yu2 chao2 hen2
+晨霞將溶	chen2 xia2 jiang1 rong2
+調律師的夙願	diao4 lv4 shi1 de5 su4 yuan4
+聚散難期	ju4 san4 nan2 qi1
+深水的頌榮	shen1 shui3 de5 song4 rong2
+未成一簣	wei4 cheng2 yi1 kui4
+眾水的慰藉	zhong4 shui3 de5 wei4 jie4
+沉落的征程	chen2 luo4 de5 zheng1 cheng2
+諭定的終幕	yu4 ding4 de5 zhong1 mu4
+哀挽的王都	ai1 wan3 de5 wang2 dou1
+無慮的應許	wu2 lv4 de5 ying1 xu3
+永駐寧謐之刻	yong3 zhu4 ning2 mi4 zhi1 ke4
+諧榮的舊夢	xie2 rong2 de5 jiu4 meng4
+僻秘之禍	pi4 mi4 zhi1 huo4
+尊榮之憶	zun1 rong2 zhi1 yi4
+厄難之年	e4 nan4 zhi1 nian2
+風起潮湧	feng1 qi3 chao2 yong3
+煌榮之期	huang2 rong2 zhi1 qi1
+金宮的絮語	jin1 gong1 de5 xu4 yu3
+昔時淚跡	xi1 shi2 lei4 ji4
+豐饒美地	feng1 rao2 mei3 di4
+征程號角	zheng1 cheng2 hao4 jiao3
+赫赫君王	he4 he4 jun1 wang2
+震怒之日	zhen4 nu4 zhi1 ri4
+受判之徒	shou4 pan4 zhi1 tu2
+垂淚之時	chui2 lei4 zhi1 shi2
+安魂的協奏曲	an1 hun2 de5 xie2 zou4 qu3
+燭燼的奉信禮	zhu2 jin4 de5 feng4 xin4 li3
+役從的繼敘詠	yi4 cong2 de5 ji4 xu4 yong3
+終末的赦禱頌	zhong1 mo4 de5 she4 dao3 song4
+燼火	jin4 huo3
+埠上風光	bu4 shang4 feng1 guang1
+半入江風半入雲	ban4 ru4 jiang1 feng1 ban4 ru4 yun2
+麗日逢源	li4 ri4 feng2 yuan2
+明月照翠瓏	ming2 yue4 zhao4 cui4 long2
+融風漸暖	rong2 feng1 jian4 nuan3
+芳草庭閒	fang1 cao3 ting2 xian2
+況是花繁月正明	kuang4 shi4 hua1 fan2 yue4 zheng4 ming2
+錦彩之夢	jin3 cai3 zhi1 meng4
+茗香悠遠	ming2 xiang1 you1 yuan3
+蜿蜒的舊憶	wan1 yan2 de5 jiu4 yi4
+山巒的仙語	shan1 luan2 de5 xian1 yu3
+清露漣漣	qing1 lu4 lian2 lian2
+雲暖採茶時	yun2 nuan3 cai3 cha2 shi2
+名藏仙府	ming2 cang2 xian1 fu3
+陌路春深	mo4 lu4 chun1 shen1
+遠山籠宿霧	yuan3 shan1 long2 su4 wu4
+玉篆之詩	yu4 zhuan4 zhi1 shi1
+靜夜流觴	jing4 ye4 liu2 shang1
+清潤玉響	qing1 run4 yu4 xiang3
+竹林溪澗	zhu2 lin2 xi1 jian4
+采藥歸鄉	cai3 yao4 gui1 xiang1
+曲水如鱗	qu1 shui3 ru2 lin2
+笑語諧趣	xiao4 yu3 xie2 qu4
+村巷歡聲	cun1 xiang4 huan1 sheng1
+幽谷舟詠	you1 gu3 zhou1 yong3
+幽谷舟詠·其二	you1 gu3 zhou1 yong3 · qi2 er4
+沉玉穀漁歌	chen2 yu4 gu3 yu2 ge1
+沉玉穀漁歌·其二	chen2 yu4 gu3 yu2 ge1 · qi2 er4
+王山遺威	wang2 shan1 yi2 wei1
+浮光搖日月	fu2 guang1 yao2 ri4 yue4
+錦色映夜風	jin3 se4 ying4 ye4 feng1
+春盡水如天	chun1 jin4 shui3 ru2 tian1
+久夢隨雲	jiu3 meng4 sui2 yun2
+玉磬漻漻	yu4 qing4 liao2 liao2
+石泉溟蒙	shi2 quan2 ming2 meng2
+天光深搖溪影寒	tian1 guang1 shen1 yao2 xi1 ying3 han2
+雲滿衣裳月滿身	yun2 man3 yi1 chang2 yue4 man3 shen1
+歸步過流塵	gui1 bu4 guo4 liu2 chen2
+霧隨山色重	wu4 sui2 shan1 se4 zhong4
+雲染夕曛輕	yun2 ran3 xi1 xun1 qing1
+半枕靈蘭落玉機	ban4 zhen3 ling2 lan2 luo4 yu4 ji1
+壺中金匱	hu2 zhong1 jin1 kui4
+洞天伏仙	dong4 tian1 fu2 xian1
+沉瓏的瑤庭	chen2 long2 de5 yao2 ting2
+岸谷蒼苔冷	an4 gu3 cang1 tai2 leng3
+松蔭白日寒	song1 yin1 bai2 ri4 han2
+錦落雲升	jin3 luo4 yun2 sheng1
+閒攬九霄雲	xian2 lan3 jiu3 xiao1 yun2
+豈愧瑟與箏	qi3 kui4 se4 yu3 zheng1
+風散忽經年	feng1 san4 hu1 jing1 nian2
+我心孤雲身野鶴	wo3 xin1 gu1 yun2 shen1 ye3 he4
+燈如明月在中天	deng1 ru2 ming2 yue4 zai4 zhong1 tian1
+肅肅宵征	su4 su4 xiao1 zheng1
+山風禦隨	shan1 feng1 yu4 sui2
+煦風染細浪	xu4 feng1 ran3 xi4 lang4
+柔燈輕漾時	rou2 deng1 qing1 yang4 shi2
+醵飲同歡	ju4 yin3 tong2 huan1
+枯柳的幽緒	ku1 liu3 de5 you1 xu4
+湖色的重光	hu2 se4 de5 chong2 guang1
+泉棲穀隱	quan2 qi1 gu3 yin3
+白曉的輕霧	bai2 xiao3 de5 qing1 wu4
+深塔縈夢	shen1 ta3 ying2 meng4
+歡榮的奇秘	huan1 rong2 de5 qi2 mi4
+失迷的影事	shi1 mi2 de5 ying3 shi4
+涸濁的花跡	he2 zhuo2 de5 hua1 ji4
+秘儀與律法	mi4 yi2 yu3 lv4 fa3
+昔古的空響	xi1 gu3 de5 kong1 xiang3
+原海的憐恕	yuan2 hai3 de5 lian2 shu4
+舉杯吧，旅人已至！	ju3 bei1 ba1 ， lv3 ren2 yi3 zhi4 ！
+陌路新交	mo4 lu4 xin1 jiao1
+避影匿光	bi4 ying3 ni4 guang1
+終臨的殛罰	zhong1 lin2 de5 ji2 fa2
+危迫之刻	wei1 po4 zhi1 ke4
+順默者的離索	shun4 mo4 zhe3 de5 li2 suo3
+逆與正的秩位	ni4 yu3 zheng4 de5 zhi4 wei4
+舊世遺讖	jiu4 shi4 yi2 chen4
+終幕的序曲	zhong1 mu4 de5 xu4 qu3
+如願所成	ru2 yuan4 suo3 cheng2
+罪人的最後一舞	zui4 ren2 de5 zui4 hou4 yi1 wu3
+喝彩吧，謝幕之時已至	he4 cai3 ba1 ， xie4 mu4 zhi1 shi2 yi3 zhi4
+如涓的憶戀	ru2 juan1 de5 yi4 lian4
+特爾克西的輕語	te4 er3 ke4 xi1 de5 qing1 yu3
+虹色的搖籃曲	hong2 se4 de5 yao2 lan2 qu3
+珊瑚的加冕禮	shan1 hu2 de5 jia1 mian3 li3
+夢的後日談	meng4 de5 hou4 ri4 tan2
+水仙十字安眠曲	shui3 xian1 shi2 zi4 an1 mian2 qu3
+發條的舞曲	fa1 tiao2 de5 wu3 qu3
+齒輪的王國	chi3 lun2 de5 wang2 guo2
+禁錮的勞作	jin4 gu4 de5 lao2 zuo4
+刺拳如毒蜂！	ci4 quan2 ru2 du2 feng1 ！
+水下的公爵	shui3 xia4 de5 gong1 jue2
+晶藍的簾幕	jing1 lan2 de5 lian2 mu4
+沉沒的異鄉	chen2 mo4 de5 yi4 xiang1
+無言的鯨歌	wu2 yan2 de5 jing1 ge1
+森嚴之地	sen1 yan2 zhi1 di4
+爐渣之路	lu2 zha1 zhi1 lu4
+應得之旅	ying1 de2 zhi1 lv3
+求索的殘歌	qiu2 suo3 de5 can2 ge1
+晶輝隱幽	jing1 hui1 yin3 you1
+深默的折光	shen1 mo4 de5 zhe2 guang1
+新的希望	xin1 de5 xi1 wang4
+失誤的喜劇	shi1 wu4 de5 xi3 ju4
+牧歌的舊夢	mu4 ge1 de5 jiu4 meng4
+企望的流音	qi3 wang4 de5 liu2 yin1
+林蔭與泉流	lin2 yin1 yu3 quan2 liu2
+精靈隱沒之地	jing1 ling2 yin3 mo4 zhi1 di4
+白露的往跡	bai2 lu4 de5 wang3 ji4
+輕語如露	qing1 yu3 ru2 lu4
+好夢，楓丹	hao3 meng4 ， feng1 dan1
+月夜的輕潮	yue4 ye4 de5 qing1 chao2
+沉睡的柔波	chen2 shui4 de5 rou2 bo1
+安眠的曲調	an1 mian2 de5 qu3 diao4
+淡月之舞	dan4 yue4 zhi1 wu3
+蔚藍一夢	wei4 lan2 yi1 meng4
+水照雲光	shui3 zhao4 yun2 guang1
+蒼色的極望	cang1 se4 de5 ji2 wang4
+未竟之詩	wei4 jing4 zhi1 shi1
+暮夜與遺忘	mu4 ye4 yu3 yi2 wang4
+久曠的弦音	jiu3 kuang4 de5 xian2 yin1
+潛深伏隩	qian2 shen1 fu2 ao4
+萬象裁滅之刻	wan4 xiang4 cai2 mie4 zhi1 ke4
+災蝕的痕影	zai1 shi2 de5 hen2 ying3
+九徹生識	jiu3 che4 sheng1 shi2
+無餘灰斷	wu2 yu2 hui1 duan4
+旋藍之舞	xuan2 lan2 zhi1 wu3
+妙淨明心	miao4 jing4 ming2 xin1
+瓊花映蕊	qiong2 hua1 ying4 rui3
+世諦從緘	shi4 di4 cong2 jian1
+思接千載	si1 jie1 qian1 zai3
+薄曉的重光	bo2 xiao3 de5 chong2 guang1
+驕陽熾燎	jiao1 yang2 chi4 liao2
+晴霜的信風	qing2 shuang1 de5 xin4 feng1
+天途迢遙	tian1 tu2 tiao2 yao2
+草偃風從	cao3 yan3 feng1 cong2
+止極雨散	zhi3 ji2 yu3 san4
+暖雲貓跡	nuan3 yun2 mao1 ji4
+綺縠紛披	qi3 hu2 fen1 pi1
+虛與實的秘言	xu1 yu3 shi2 de5 mi4 yan2
+幻光漫戲	huan4 guang1 man4 xi4
+躡影追風	nie4 ying3 zhui1 feng1
+寒晶的遐夢	han2 jing1 de5 xia2 meng4
+潮音流奏之日	chao2 yin1 liu2 zou4 zhi1 ri4
+古海復湧之時	gu3 hai3 fu4 yong3 zhi1 shi2
+深水的格律	shen1 shui3 de5 ge2 lv4
+霜烈競逐	shuang1 lie4 jing4 zhu2
+索實逐真	suo3 shi2 zhu2 zhen1
+眾生頌	zhong4 sheng1 song4
+邀歡同遊	yao1 huan1 tong2 you2
+輕漣	qing1 lian2
+楓丹	feng1 dan1
+時暮的思眷	shi2 mu4 de5 si1 juan4
+眾水之詩	zhong4 shui3 zhi1 shi1
+百樂諧榮之城	bai3 le4 xie2 rong2 zhi1 cheng2
+歲華悠暇	sui4 hua2 you1 xia2
+蒼水晶的行歌	cang1 shui3 jing1 de5 xing2 ge1
+月夕花朝	yue4 xi1 hua1 zhao1
+星燈暈染之街	xing1 deng1 yun1 ran3 zhi1 jie1
+縈夢的絮語	ying2 meng4 de5 xu4 yu3
+柔靜輕俏之夜	rou2 jing4 qing1 qiao4 zhi1 ye4
+晨光初映時	chen2 guang1 chu1 ying4 shi2
+宴飲的景序	yan4 yin3 de5 jing3 xu4
+諸律的諧奏	zhu1 lv4 de5 xie2 zou4
+輕雨何故落	qing1 yu3 he2 gu4 luo4
+匿伏之河	ni4 fu2 zhi1 he2
+離逐者的謀歡	li2 zhu2 zhe3 de5 mou2 huan1
+海露的遐思	hai3 lu4 de5 xia2 si1
+領航人的倦憩	ling3 hang2 ren2 de5 juan4 qi4
+露景澈映	lu4 jing3 che4 ying4
+月影微茫	yue4 ying3 wei1 mang2
+清泉的禮贊	qing1 quan2 de5 li3 zan4
+萬水匯流之地	wan4 shui3 hui4 liu2 zhi1 di4
+暮夜的柔光	mu4 ye4 de5 rou2 guang1
+永不落幕的盛典	yong3 bu4 luo4 mu4 de5 sheng4 dian3
+諭示裁定之時	yu4 shi4 cai2 ding4 zhi1 shi2
+賾探隱索	ze2 tan4 yin3 suo3
+傾危的判詞	qing1 wei1 de5 pan4 ci2
+演繹與演繹法	yan3 yi4 yu3 yan3 yi4 fa3
+彼時的證言	bi3 shi2 de5 zheng4 yan2
+其人之名，我已知曉！	qi2 ren2 zhi1 ming2 ， wo3 yi3 zhi1 xiao3 ！
+爐火微暗	lu2 huo3 wei1 an4
+刺玫的詩律	ci4 mei2 de5 shi1 lv4
+白淞的夕暮	bai2 song1 de5 xi1 mu4
+安逸的靜水	an1 yi4 de5 jing4 shui3
+遐睠溫煦之風	xia2 juan4 wen1 xu4 zhi1 feng1
+漪瀾搖漾	yi1 lan2 yao2 yang4
+水色巡遊	shui3 se4 xun2 you2
+漫徊繁蔭之原	man4 huai2 fan2 yin1 zhi1 yuan2
+蒼琅的迴響	cang1 lang2 de5 hui2 xiang3
+松林析窣	song1 lin2 xi1 su4
+涓流輕緩	juan1 liu2 qing1 huan3
+雲雀的夢覺	yun2 que4 de5 meng4 jue2
+柔風的歡願	rou2 feng1 de5 huan1 yuan4
+輕漪的節音	qing1 yi1 de5 jie2 yin1
+遙途的冀望	yao2 tu2 de5 ji4 wang4
+四季的悠遊	si4 ji4 de5 you1 you2
+昔時的花語	xi1 shi2 de5 hua1 yu3
+若晨曦再度升起	ruo4 chen2 xi1 zai4 du4 sheng1 qi3
+冷流潺然	leng3 liu2 chan2 ran2
+菵露落夤夜	wang2 lu4 luo4 yin2 ye4
+行往何方	xing2 wang3 he2 fang1
+雨月的晚禱	yu3 yue4 de5 wan3 dao3
+寒星遙遙	han2 xing1 yao2 yao2
+白泉暮景	bai2 quan2 mu4 jing3
+漂萍逐水	piao1 ping2 zhu2 shui3
+澈夜的組詩	che4 ye4 de5 zu3 shi1
+深夕映繁星	shen1 xi1 ying4 fan2 xing1
+裁心的狡計	cai2 xin1 de5 jiao3 ji4
+緣何停駐此刻	yuan2 he2 ting2 zhu4 ci3 ke4
+水仙的茶會	shui3 xian1 de5 cha2 hui4
+鏡中之夢	jing4 zhong1 zhi1 meng4
+深潮暗湧之刻	shen1 chao2 an4 yong3 zhi1 ke4
+渡越舊日之影	du4 yue4 jiu4 ri4 zhi1 ying3
+直至眾水之終	zhi2 zhi4 zhong4 shui3 zhi1 zhong1
+終焉的揭示	zhong1 yan1 de5 jie1 shi4
+泉跡斑駁	quan2 ji4 ban1 bo2
+深眠杳寂之穀	shen1 mian2 yao3 ji4 zhi1 gu3
+海沫的歡語	hai3 mo4 de5 huan1 yu3
+幻異的輕吟	huan4 yi4 de5 qing1 yin2
+淵水遺落之城	yuan1 shui3 yi2 luo4 zhi1 cheng2
+流光過隙	liu2 guang1 guo4 xi4
+沈匿的舊夢	shen3 ni4 de5 jiu4 meng4
+安謐的海原	an1 mi4 de5 hai3 yuan2
+深泓浮湛	shen1 hong2 fu2 zhan4
+縱然時歲流轉	zong4 ran2 shi2 sui4 liu2 zhuan3
+眾水的誓約	zhong4 shui3 de5 shi4 yue1
+悠遊逐浪	you1 you2 zhu2 lang4
+滄潮的溯想	cang1 chao2 de5 suo4 xiang3
+澄思寂慮	cheng2 si1 ji4 lv4
+水中花影	shui3 zhong1 hua1 ying3
+沉落的殘痕	chen2 luo4 de5 can2 hen2
+安眠於追憶之地	an1 mian2 yu2 zhui1 yi4 zhi1 di4
+凋萎於昔時之花	diao1 wei3 yu2 xi1 shi2 zhi1 hua1
+鍍金的夕暮	du4 jin1 de5 xi1 mu4
+褪落的芳華	tui4 luo4 de5 fang1 hua2
+萬古的回聲	wan4 gu3 de5 hui2 sheng1
+秘象的殘響	mi4 xiang4 de5 can2 xiang3
+熔火的遺燼	rong2 huo3 de5 yi2 jin4
+幽徑疊影	you1 jing4 die2 ying3
+妄執之路	wang4 zhi2 zhi1 lu4
+匿黯的深罪	ni4 an4 de5 shen1 zui4
+花與劍的輪舞	hua1 yu3 jian4 de5 lun2 wu3
+詠歌與凱旋	yong3 ge1 yu3 kai3 xuan2
+碎浪之舞	sui4 lang4 zhi1 wu3
+歌裴莉婭的晨歌	ge1 pei2 li4 ya4 de5 chen2 ge1
+科培琉司的辭行	ke1 pei2 liu2 si1 de5 ci2 xing2
+逸興歡躍	yi4 xing4 huan1 yue4
+飛車出發啦！	fei1 che1 chu1 fa1 la1 ！
+市闤繁漫	shi4 huan2 fan2 man4
+遐遊香榭	xia2 you2 xiang1 xie4
+夜靜更闌	ye4 jing4 geng1 lan2
+暮夜綺想	mu4 ye4 qi3 xiang3
+歡笑的凱旋	huan1 xiao4 de5 kai3 xuan2
+暢舒的行歌	chang4 shu1 de5 xing2 ge1
+諧愜的俚曲	xie2 qie4 de5 li3 qu3
+適趣的韻調	shi4 qu4 de5 yun4 diao4
+黑水晶的遠航	hei1 shui3 jing1 de5 yuan3 hang2
+森萃的幻戲	sen1 cui4 de5 huan4 xi4
+澄寂的蜃夢	cheng2 ji4 de5 shen4 meng4
+褪淡的思眷	tui4 dan4 de5 si1 juan4
+輕繹的柔願	qing1 yi4 de5 rou2 yuan4
+星芒若鈴	xing1 mang2 ruo4 ling2
+清夢幽思	qing1 meng4 you1 si1
+月露之行	yue4 lu4 zhi1 xing2
+鴟梟孤歌之夜	chi1 xiao1 gu1 ge1 zhi1 ye4
+登臨幽悄之塔	deng1 lin2 you1 qiao1 zhi1 ta3
+悠遠的繪染	you1 yuan3 de5 hui4 ran3
+遙天的圖景	yao2 tian1 de5 tu2 jing3
+險峙之刻	xian3 zhi4 zhi1 ke4
+白枝之夢	bai2 zhi1 zhi1 meng4
+趣求法樂	qu4 qiu2 fa3 le4
+柔風淺酌	rou2 feng1 qian3 zhuo2
+杏林靜憩	xing4 lin2 jing4 qi4
+浮白載筆	fu2 bai2 zai4 bi3
+無憂的曲調	wu2 you1 de5 qu3 diao4
+赤砂的承守	chi4 sha1 de5 cheng2 shou3
+花與夢的祝誕	hua1 yu3 meng4 de5 zhu4 dan4
+災咎之音	zai1 jiu4 zhi1 yin1
+禍兆之律	huo4 zhao4 zhi1 lv4
+虛願難遂	xu1 yuan4 nan2 sui4
+詭越趨迎	gui3 yue4 qu1 ying2
+花鏡百韻	hua1 jing4 bai3 yun4
+末劫末見之刻	mo4 jie2 mo4 jian4 zhi1 ke4
+窺間伺隙	kui1 jian1 si4 xi4
+熾砂的崩坼	chi4 sha1 de5 beng1 che4
+歸風的輕語	gui1 feng1 de5 qing1 yu3
+七榮的嗣世	qi1 rong2 de5 si4 shi4
+況複兩心同	kuang4 fu4 liang3 xin1 tong2
+指動字成	zhi3 dong4 zi4 cheng2
+蓮光的流沔	lian2 guang1 de5 liu2 mian3
+三時三覺	san1 shi2 san1 jue2
+一空一切空	yi1 kong1 yi1 qie4 kong1
+幽玄有心	you1 xuan2 you3 xin1
+秋津的思憶	qiu1 jin1 de5 si1 yi4
+桃枝火鱗	tao2 zhi1 huo3 lin2
+寒木春華	han2 mu4 chun1 hua1
+其名為群	qi2 ming2 wei2 qun2
+遙世的夜歌	yao2 shi4 de5 ye4 ge1
+緘鎖的災沴	jian1 suo3 de5 zai1 li4
+風念月思	feng1 nian4 yue4 si1
+煌絢的旅路	huang2 xuan4 de5 lv3 lu4
+初火的殘輝	chu1 huo3 de5 can2 hui1
+白草的決徹	bai2 cao3 de5 jue2 che4
+春脈如弦	chun1 mai4 ru2 xian2
+正識的榮冕	zheng4 shi2 de5 rong2 mian3
+餘歎遠昔	yu2 tan4 yuan3 xi1
+共逐星華	gong4 zhu2 xing1 hua1
+清晶的綺夢	qing1 jing1 de5 qi3 meng4
+諸相憶念	zhu1 xiang4 yi4 nian4
+召喚王的決意	zhao4 huan4 wang2 de5 jue2 yi4
+千景巡歌	qian1 jing3 xun2 ge1
+空穀皎皎	kong1 gu3 jiao3 jiao3
+致終幕的歡宴	zhi4 zhong1 mu4 de5 huan1 yan4
+斯露莎的歌	si1 lu4 sha1 de5 ge1
+靈光的迴響	ling2 guang1 de5 hui2 xiang3
+花與樹的女兒們	hua1 yu3 shu4 de5 nv3 er2 men5
+女主人的叮嚀	nv3 zhu3 ren2 de5 ding1 ning2
+神鳥棲居之處	shen2 niao3 qi1 ju1 zhi1 chu4
+萬千蕊芯之夢	wan4 qian1 rui3 xin1 zhi1 meng4
+生命受祝之所	sheng1 ming4 shou4 zhu4 zhi1 suo3
+無憂的眠夢	wu2 you1 de5 mian2 meng4
+綠洲的蜃影	lv4 zhou1 de5 shen4 ying3
+孤客之旅	gu1 ke4 zhi1 lv3
+迷失之歎	mi2 shi1 zhi1 tan4
+分歧的道路	fen1 qi2 de5 dao4 lu4
+沙丘上的曙光	sha1 qiu1 shang4 de5 shu3 guang1
+沙蠍之舞	sha1 xie1 zhi1 wu3
+荒沙與新月	huang1 sha1 yu3 xin1 yue4
+千夜的遺珠	qian1 ye4 de5 yi2 zhu1
+大漠蟲鳴	da4 mo4 chong2 ming2
+花海之夢	hua1 hai3 zhi1 meng4
+月光的祝福	yue4 guang1 de5 zhu4 fu2
+浪客的安歇	lang4 ke4 de5 an1 xie1
+深秘的險境	shen1 mi4 de5 xian3 jing4
+荒廢的預言	huang1 fei4 de5 yu4 yan2
+孤獨的淵藪	gu1 du2 de5 yuan1 sou3
+荊棘叢生之地	jing1 ji2 cong2 sheng1 zhi1 di4
+殘跡幽影	can2 ji4 you1 ying3
+受詛的澤地	shou4 zu3 de5 ze2 di4
+毒蟲伏行之處	du2 chong2 fu2 xing2 zhi1 chu4
+舊夢腐朽之所	jiu4 meng4 fu3 xiu3 zhi1 suo3
+蔥蘢的夢鄉	cong1 long2 de5 meng4 xiang1
+她的期許	ta1 de5 qi1 xu3
+空虛的願景	kong1 xu1 de5 yuan4 jing3
+往昔的樂園	wang3 xi1 de5 le4 yuan2
+揚塵如幕	yang2 chen2 ru2 mu4
+黃砂為衾	huang2 sha1 wei2 qin1
+香料之路	xiang1 liao4 zhi1 lu4
+失憶的諸國	shi1 yi4 de5 zhu1 guo2
+鍍金的旅途	du4 jin1 de5 lv3 tu2
+眾礫的汪洋	zhong4 li4 de5 wang1 yang2
+沙海的搖籃曲	sha1 hai3 de5 yao2 lan2 qu3
+褪色的眷戀	tui4 se4 de5 juan4 lian4
+故國的回憶	gu4 guo2 de5 hui2 yi4
+歸巢的獵鷹	gui1 chao2 de5 lie4 ying1
+安睡之所	an1 shui4 zhi1 suo3
+蛇蠍無眠	she2 xie1 wu2 mian2
+死寂的殿堂	si3 ji4 de5 dian4 tang2
+遺落的哀歌	yi2 luo4 de5 ai1 ge1
+赤砂的思慕	chi4 sha1 de5 si1 mu4
+毒蟲之穴	du2 chong2 zhi1 xue2
+古城的低語	gu3 cheng2 de5 di1 yu3
+砂下秘辛	sha1 xia4 mi4 xin1
+諸綠洲中的金杯	zhu1 lv4 zhou1 zhong1 de5 jin1 bei1
+流沙的繾綣	liu2 sha1 de5 qian3 quan3
+守護者的思眷	shou3 hu4 zhe3 de5 si1 juan4
+宥謐寧息之風	you4 mi4 ning2 xi1 zhi1 feng1
+沙民的庇護所	sha1 min2 de5 bi4 hu4 suo3
+鐫刻遙夢之銘	juan1 ke4 yao2 meng4 zhi1 ming2
+千世傳述之願	qian1 shi4 chuan2 shu4 zhi1 yuan4
+灼燃的殘光	zhuo2 ran2 de5 can2 guang1
+餘威猶存	yu2 wei1 you2 cun2
+撫今惟昔	fu3 jin1 wei2 xi1
+舊思緬邈	jiu4 si1 mian3 miao3
+遺甃軫念	yi2 zhou4 zhen3 nian4
+深黯之地	shen1 an4 zhi1 di4
+緘秘的影跡	jian1 mi4 de5 ying3 ji4
+失殞的舊宴	shi1 yun3 de5 jiu4 yan4
+淪沒的誓願	lun2 mo4 de5 shi4 yuan4
+諸世的階梯	zhu1 shi4 de5 jie1 ti1
+熾天的輝舟	chi4 tian1 de5 hui1 zhou1
+赤沙之眼	chi4 sha1 zhi1 yan3
+空想的落音	kong1 xiang3 de5 luo4 yin1
+消泯的終末	xiao1 min3 de5 zhong1 mo4
+遠逝的迴響	yuan3 shi4 de5 hui2 xiang3
+七榮的陵殿	qi1 rong2 de5 ling2 dian4
+伏諫之刻	fu2 jian4 zhi1 ke4
+沙衍綠碧	sha1 yan3 lv4 bi4
+遐方樂土	xia2 fang1 le4 tu3
+綠松石的夜歌	lv4 song1 shi2 de5 ye4 ge1
+永世的酣夢	yong3 shi4 de5 han1 meng4
+惘惑漠漠	wang3 huo4 mo4 mo4
+望塵行跡	wang4 chen2 xing2 ji4
+往淚盡之地	wang3 lei4 jin4 zhi1 di4
+煬旱的岩穀	yang2 han4 de5 yan2 gu3
+荒落的沙徑	huang1 luo4 de5 sha1 jing4
+艱厄漫途	jian1 e4 man4 tu2
+終至月明	zhong1 zhi4 yue4 ming2
+星霜的餘音	xing1 shuang1 de5 yu2 yin1
+遺風逸塵	yi2 feng1 yi4 chen2
+邃世憂懷	sui4 shi4 you1 huai2
+迢遙的蜃景	tiao2 yao2 de5 shen4 jing3
+瀚漠冥茫	han4 mo4 ming2 mang2
+熾風苦旅	chi4 feng1 ku3 lv3
+逾沙軼漠	yu2 sha1 yi4 mo4
+暮夜煢行	mu4 ye4 qiong2 xing2
+沙與月的弦音	sha1 yu3 yue4 de5 xian2 yin1
+荒夜的陣風	huang1 ye4 de5 zhen4 feng1
+星月寂闃	xing1 yue4 ji4 qu4
+縈思寥落	ying2 si1 liao2 luo4
+幽壑深渺	you1 he4 shen1 miao3
+絕域危途	jue2 yu4 wei1 tu2
+淨念相繼	jing4 nian4 xiang1 ji4
+流金的烈怒	liu2 jin1 de5 lie4 nu4
+星滅光離	xing1 mie4 guang1 li2
+獅尾之舞	shi1 wei3 zhi1 wu3
+赭泉酩旋	zhe3 quan2 ming3 xuan2
+六輪一露狂詩曲	liu4 lun2 yi1 lu4 kuang2 shi1 qu3
+五相常寂	wu3 xiang1 chang2 ji4
+三千娑世禦詠歌	san1 qian1 suo1 shi4 yu4 yong3 ge1
+噬神巨蛇的狂舞	shi4 shen2 ju4 she2 de5 kuang2 wu3
+高光時刻	gao1 guang1 shi2 ke4
+豪蕩戲臺	hao2 dang4 xi4 tai2
+犬帥稔謀	quan3 shuai4 ren3 mou2
+霞袂飄颺	xia2 mei4 piao1 yang2
+霜翎猶斂	shuang1 ling2 you2 lian3
+鶴鳴清唳	he4 ming2 qing1 li4
+快意新詞	kuai4 yi4 xin1 ci2
+變化神通	bian4 hua4 shen2 tong1
+天狐外道	tian1 hu2 wai4 dao4
+貞木其心	zhen1 mu4 qi2 xin1
+行水盈盈	xing2 shui3 ying2 ying2
+疏而不失  _  shu1 er2 bu4 shi1
+潤雨遐蹤	run4 yu3 xia2 zong1
+捷才疾霆	jie2 cai2 ji2 ting2
+躡風捕跡	nie4 feng1 bu3 ji4
+遙夜華競	yao2 ye4 hua2 jing4
+綽巡林風	chuo4 xun2 lin2 feng1
+擷萃漫想	xie2 cui4 man4 xiang3
+多謝惠顧！	duo1 xie4 hui4 gu4 ！
+九弓的弦詠	jiu3 gong1 de5 xian2 yong3
+緘秘的行律	jian1 mi4 de5 xing2 lv4
+赤沙的玉饋	chi4 sha1 de5 yu4 kui4
+七域的蕖華	qi1 yu4 de5 qu2 hua2
+此夕星遊	ci3 xi1 xing1 you2
+窕夢的祝誕	tiao3 meng4 de5 zhu4 dan4
+淨善的遐歌	jing4 shan4 de5 xia2 ge1
+須彌	xu1 mi2
+樹與花的旋舞	shu4 yu3 hua1 de5 xuan2 wu3
+清風散林纈	qing1 feng1 san4 lin2 xie2
+幾初的智願	ji1 chu1 de5 zhi4 yuan4
+常綠的希冀	chang2 lv4 de5 xi1 ji4
+薄暮的歡歎	bo2 mu4 de5 huan1 tan4
+香林繁露之夜	xiang1 lin2 fan2 lu4 zhi1 ye4
+瑤木靜意之思	yao2 mu4 jing4 yi4 zhi1 si1
+眠時光明	mian2 shi2 guang1 ming2
+靜謐的星夜	jing4 mi4 de5 xing1 ye4
+慧光啟曙	hui4 guang1 qi3 shu3
+宴語韻悠悠	yan4 yu3 yun4 you1 you1
+於智境諦思	yu2 zhi4 jing4 di4 si1
+喧繁之港	xuan1 fan2 zhi1 gang3
+商港晚憩	shang1 gang3 wan3 qi4
+熙攘的街市	xi1 rang3 de5 jie1 shi4
+闌珊夜色	lan2 shan1 ye4 se4
+葳蕤林野間	wei1 rui2 lin2 ye3 jian1
+黛綠的夜話	dai4 lv4 de5 ye4 hua4
+鬱灼的前哨	yu4 zhuo2 de5 qian2 shao4
+不移的恭默	bu4 yi2 de5 gong1 mo4
+邊沙聚壘障	bian1 sha1 ju4 lei3 zhang4
+戒惕的注視	jie4 ti4 de5 zhu4 shi4
+深林杳杳	shen1 lin2 yao3 yao3
+卉木萋萋	hui4 mu4 qi1 qi1
+霽野漫步	ji4 ye3 man4 bu4
+漾影逐波	yang4 ying3 zhu2 bo1
+碧草柔風	bi4 cao3 rou2 feng1
+倦慵的片刻	juan4 yong1 de5 pian4 ke4
+葉叢間的月夜	ye4 cong2 jian1 de5 yue4 ye4
+無羈的漫遊	wu2 ji1 de5 man4 you2
+酣睡的郁林	han1 shui4 de5 yu4 lin2
+綠枝新柔	lv4 zhi1 xin1 rou2
+若木的沈唱	ruo4 mu4 de5 shen3 chang4
+盈流慈水	ying2 liu2 ci2 shui3
+茂林巡行	mao4 lin2 xun2 xing2
+仁柔的煙林	ren2 rou2 de5 yan1 lin2
+露濕的林莽	lu4 shi1 de5 lin2 mang3
+流泉錚淙的夜想	liu2 quan2 zheng1 cong2 de5 ye4 xiang3
+林籟暮曲	lin2 lai4 mu4 qu3
+泠波汩汩的微語	ling2 bo1 gu3 gu3 de5 wei1 yu3
+空穀傳響	kong1 gu3 chuan2 xiang3
+芳林徘徊	fang1 lin2 pai2 huai2
+幽谷冥冥	you1 gu3 ming2 ming2
+青藤靜掩的愁悶	qing1 teng2 jing4 yan3 de5 chou2 men4
+殘夜餘音	can2 ye4 yu2 yin1
+涼風暫歇之時	liang2 feng1 zan4 xie1 zhi1 shi2
+暮星輕語之刻	mu4 xing1 qing1 yu3 zhi1 ke4
+遠行的思願	yuan3 xing2 de5 si1 yuan4
+邃風的崤穀	sui4 feng1 de5 xiao2 gu3
+白木的追憶	bai2 mu4 de5 zhui1 yi4
+隨風而逝的舊夢	sui2 feng1 er2 shi4 de5 jiu4 meng4
+瑩澈的夜	ying2 che4 de5 ye4
+淒寥的表記	qi1 liao2 de5 biao3 ji4
+詩緒縈懷	shi1 xu4 ying2 huai2
+荼訶遺舊	tu2 he1 yi2 jiu4
+塵封的往事	chen2 feng1 de5 wang3 shi4
+靜夜馳想	jing4 ye4 chi2 xiang3
+孤星的憧憬	gu1 xing1 de5 chong1 jing3
+弢跡匿光	tao1 ji4 ni4 guang1
+遺誡猶在	yi2 jie4 you2 zai4
+星月之路	xing1 yue4 zhi1 lu4
+流螢明滅	liu2 ying2 ming2 mie4
+月輝低吟	yue4 hui1 di1 yin2
+劫波破執	jie2 bo1 po4 zhi2
+沃土新芽的曲調	wo4 tu3 xin1 ya2 de5 qu3 diao4
+顛倒夢想的曲調	dian1 dao3 meng4 xiang3 de5 qu3 diao4
+晨曦初露的曲調	chen2 xi1 chu1 lu4 de5 qu3 diao4
+生命之穀的曲調	sheng1 ming4 zhi1 gu3 de5 qu3 diao4
+和合大夢的曲調	he2 he2 da4 meng4 de5 qu3 diao4
+染綠鄉園的曲調	ran3 lv4 xiang1 yuan2 de5 qu3 diao4
+幼葉綻生的曲調	you4 ye4 zhan4 sheng1 de5 qu3 diao4
+綠野纖綿的曲調	lv4 ye3 xian1 mian2 de5 qu3 diao4
+根子的片語	gen1 zi3 de5 pian4 yu3
+失落的歌調	shi1 luo4 de5 ge1 diao4
+昔時遙憶	xi1 shi2 yao2 yi4
+細語回縈	xi4 yu3 hui2 ying2
+歸於遺忘和泥土	gui1 yu2 yi2 wang4 he2 ni2 tu3
+欲說還休	yu4 shuo1 hai2 xiu1
+迷途已遠	mi2 tu2 yi3 yuan3
+無獲的探索	wu2 huo4 de5 tan4 suo3
+荒寂舊土	huang1 ji4 jiu4 tu3
+無名歲月	wu2 ming2 sui4 yue4
+桑滄遍歷	sang1 cang1 bian4 li4
+行過死蔭之地	xing2 guo4 si3 yin1 zhi1 di4
+空餘迴響	kong1 yu2 hui2 xiang3
+危惴潛流	wei1 zhuai4 qian2 liu2
+遊光澌泯	you2 guang1 si1 min3
+啞默的大地	ya3 mo4 de5 da4 di4
+於無生處	yu2 wu2 sheng1 chu4
+餘燼的頑抗	yu2 jin4 de5 wan2 kang4
+窒滯之苦	zhi4 zhi4 zhi1 ku3
+沉重的惡意	chen2 zhong4 de5 e4 yi4
+失夢之鄉	shi1 meng4 zhi1 xiang1
+失色的災厄	shi1 se4 de5 zai1 e4
+趁生燭尚未殄熄	chen4 sheng1 zhu2 shang4 wei4 tian3 xi1
+洄映的漩流	hui2 ying4 de5 xuan2 liu2
+堙穀的鐃歌	yin1 gu3 de5 nao2 ge1
+流金疾馳	liu2 jin1 ji2 chi2
+森芒頃動	sen1 mang2 qing3 dong4
+迫近的客星	po4 jin4 de5 ke4 xing1
+白堊與黑龍	bai2 e4 yu3 hei1 long2
+明霄升海平	ming2 xiao1 sheng1 hai3 ping2
+風花的邀約	feng1 hua1 de5 yao1 yue1
+玉扉繞塵歌	yu4 fei1 rao4 chen2 ge1
+盛夏！海島？大冒險！	sheng4 xia4 ！ hai3 dao3 ？ da4 mao4 xian3 ！
+不動鳴神，泡影斷滅	bu4 dong4 ming2 shen2 ， pao4 ying3 duan4 mie4
+韶光撫月，天下人間	shao2 guang1 fu3 yue4 ， tian1 xia4 ren2 jian1
+霧海懸謎境	wu4 hai3 xuan2 mi2 jing4
+皚塵與雪影	ai2 chen2 yu3 xue3 ying3
+飛彩鐫流年	fei1 cai3 juan1 liu2 nian2
+薄櫻初綻時	bo2 ying1 chu1 zhan4 shi2
+流風眷堇庭	liu2 feng1 juan4 jin3 ting2
+荒夢藏虞淵	huang1 meng4 cang2 yu2 yuan1
+仲夏！幻夜？奇想曲！	zhong4 xia4 ！ huan4 ye4 ？ qi2 xiang3 qu3 ！
+千朵玫瑰帶來的黎明	qian1 duo3 mei2 gui1 dai4 lai2 de5 li2 ming2
+赤土之王與三朝聖者	chi4 tu3 zhi1 wang2 yu3 san1 chao2 sheng4 zhe3
+虛空鼓動，劫火高揚	xu1 kong1 gu3 dong4 ， jie2 huo3 gao1 yang2
+六入盡明，諸相皆無	liu4 ru4 jin4 ming2 ， zhu1 xiang4 jie1 wu2
+磬弦奏華夜	qing4 xian2 zou4 hua2 ye4
+風花的呼吸	feng1 hua1 de5 hu1 xi1
+盛典與慧業	sheng4 dian3 yu3 hui4 ye4
+決鬥！召喚之巔！	jue2 dou4 ！ zhao4 huan4 zhi1 dian1 ！
+清夏！樂園？大秘境！	qing1 xia4 ！ le4 yuan2 ？ da4 mi4 jing4 ！
+仿若無因飄落的輕雨	fang3 ruo4 wu2 yin1 piao1 luo4 de5 qing1 yu3
+向深水中的晨星	xiang4 shen1 shui3 zhong1 de5 chen2 xing1
+罪人舞步旋	zui4 ren2 wu3 bu4 xuan2
+薔薇與銃槍	qiang2 wei1 yu3 chong4 qiang1
+彩鷂櫛春風	cai3 yao4 zhi4 chun1 feng1
+鋩鋒錦間裁	mang2 feng1 jin3 jian1 cai2
+兩界為火，赤夜將熄	liang3 jie4 wei2 huo3 ， chi4 ye4 jiang1 xi1
+紡墜終久之夢	fang3 zhui4 zhong1 jiu3 zhi1 meng4
+歡夏！邪龍？童話國！	huan1 xia4 ！ xie2 long2 ？ tong2 hua4 guo2 ！
+榮花與炎日之途	rong2 hua1 yu3 yan2 ri4 zhi1 tu2
+命定將焚的虹光	ming4 ding4 jiang1 fen2 de5 hong2 guang1
+靈與火的織卷	ling2 yu3 huo3 de5 zhi1 juan4
+熾烈的還魂詩	chi4 lie4 de5 hai2 hun2 shi1
+夢間見月明	meng4 jian1 jian4 yue4 ming2
+眾火溯還之日	zhong4 huo3 suo4 hai2 zhi1 ri4
+悖理	bei4 li3
+你存在的時空	ni3 cun2 zai4 de5 shi2 kong1
+繪夏！烈日？度假村！	hui4 xia4 ！ lie4 ri4 ？ du4 jia4 cun1 ！
+白鷺舒翼	bai2 lu4 shu1 yi4
+妙策急襲	miao4 ce4 ji2 xi2
+雷霆之判	lei2 ting2 zhi1 pan4
+裁決已定…？	cai2 jue2 yi3 ding4 … ？
+未料的密謀	wei4 liao4 de5 mi4 mou2
+危急的預覺	wei1 ji2 de5 yu4 jue2
+虛榮的落幕	xu1 rong2 de5 luo4 mu4
+向著勝利	xiang4 zhe5 sheng4 li4
+疾雷萬鈞	ji2 lei2 wan4 jun1
+苦澀的凱旋	ku3 se4 de5 kai3 xuan2
+殊勝之身	shu1 sheng4 zhi1 shen1
+靈光乍現	ling2 guang1 zha4 xian4
+另一段旅途	ling4 yi1 duan4 lv3 tu2
+急轉直下	ji2 zhuan3 zhi2 xia4
+晶明的怒火	jing1 ming2 de5 nu4 huo3
+命途兩歧	ming4 tu2 liang3 qi2
+救星登場	jiu4 xing1 deng1 chang3
+愛別離苦	ai4 bie2 li2 ku3
+風定天晴	feng1 ding4 tian1 qing2
+漸淡的舊事	jian4 dan4 de5 jiu4 shi4
+泡沫的永恆	pao4 mo4 de5 yong3 heng2
+鬱鬱的形影	yu4 yu4 de5 xing2 ying3
+蒙德的午夜	meng2 de2 de5 wu3 ye4
+挽夜的曉歌	wan3 ye4 de5 xiao3 ge1
+暮景遐思·其一	mu4 jing3 xia2 si1 · qi2 yi1
+暮景遐思·其二	mu4 jing3 xia2 si1 · qi2 er4
+聖眷的淨土	sheng4 juan4 de5 jing4 tu3
+鴝翮的皇庭	qu2 he2 de5 huang2 ting2
+幽星的獨言	you1 xing1 de5 du2 yan2
+熙焰明光	xi1 yan4 ming2 guang1
+烈火轟雷	lie4 huo3 hong1 lei2
+仲夏夜綺思	zhong4 xia4 ye4 qi3 si1
+且看今朝	qie3 kan4 jin1 zhao1
+縞鶴懷霜	gao3 he4 huai2 shuang1
+雷霆猛震	lei2 ting2 meng3 zhen4
+永恆的脈絡	yong3 heng2 de5 mai4 luo4
+神子的機思	shen2 zi3 de5 ji1 si1
+重現的國度	chong2 xian4 de5 guo2 du4
+尚未消殞的光	shang4 wei4 xiao1 yun3 de5 guang1
+破裂的劍刃	po4 lie4 de5 jian4 ren4
+未竟之志	wei4 jing4 zhi1 zhi4
+貞柏臨風	zhen1 bo2 lin2 feng1
+灼灼容彩	zhuo2 zhuo2 rong2 cai3
+孤注一擲	gu1 zhu4 yi1 zhi4
+奇詭難測	qi2 gui3 nan2 ce4
+命懸一線	ming4 xuan2 yi1 xian4
+夜叉的追想	ye4 cha1 de5 zhui1 xiang3
+知易行難	zhi1 yi4 xing2 nan2
+一念一心	yi1 nian4 yi1 xin1
+動變的前奏	dong4 bian4 de5 qian2 zou4
+華夢組曲	hua4 meng4 zu3 qu3
+無盡的挑戰	wu2 jin4 de5 tiao3 zhan4
+煜煜連星	yu4 yu4 lian2 xing1
+浮光掠影	fu2 guang1 lve4 ying3
+振飛之時	zhen4 fei1 zhi1 shi2
+熛燼的悼詠	biao1 jin4 de5 dao4 yong3
+純真的歌謠	chun2 zhen1 de5 ge1 yao2
+丹砂巍巍	dan1 sha1 wei1 wei1
+絕域蒼茫	jue2 yu4 cang1 mang2
+萬壑千岩	wan4 he4 qian1 yan2
+清風朗月	qing1 feng1 lang3 yue4
+日落百嶂靜	ri4 luo4 bai3 zhang4 jing4
+大荒沉沉	da4 huang1 chen2 chen2
+寒夜月如霜	han2 ye4 yue4 ru2 shuang1
+古戍蒼蒼	gu3 shu4 cang1 cang1
+杳杳孤鴻	yao3 yao3 gu1 hong2
+山瞑星河稀	shan1 ming2 xing1 he2 xi1
+蒼嶺悠悠	cang1 ling3 you1 you1
+空山霄月	kong1 shan1 xiao1 yue4
+野雲萬里	ye3 yun2 wan4 li3
+緘默的意義	jian1 mo4 de5 yi4 yi4
+無人知曉的夢	wu2 ren2 zhi1 xiao3 de5 meng4
+不穩的預感	bu4 wen3 de5 yu4 gan3
+隱映霜崖	yin3 ying4 shuang1 ya2
+暗影潛形	an4 ying3 qian2 xing2
+窮地之險	qiong2 di4 zhi1 xian3
+盲目的探索	mang2 mu4 de5 tan4 suo3
+虛曠之地	xu1 kuang4 zhi1 di4
+螢爝微光	ying2 jue2 wei1 guang1
+塵路綺錯	chen2 lu4 qi3 cuo4
+靜默的土地	jing4 mo4 de5 tu3 di4
+行過重岩	xing2 guo4 chong2 yan2
+冥岩的覃思	ming2 yan2 de5 tan2 si1
+重岫而遊	chong2 xiu4 er2 you2
+繁華已逝	fan2 hua2 yi3 shi4
+破碎的榮耀	po4 sui4 de5 rong2 yao4
+向時的漣淪	xiang4 shi2 de5 lian2 lun2
+久已消逝之物	jiu3 yi3 xiao1 shi4 zhi1 wu4
+深邃詭幻之徑	shen1 sui4 gui3 huan4 zhi1 jing4
+觭夢沉酣之處	ji1 meng4 chen2 han1 zhi1 chu4
+深埋地心的瑰秘	shen1 mai2 di4 xin1 de5 gui1 mi4
+勢若風雷	shi4 ruo4 feng1 lei2
+臨陣的戰慄	lin2 zhen4 de5 zhan4 li4
+騰溢的敵意	teng2 yi4 de5 di2 yi4
+爭鬥的暗流	zheng1 dou4 de5 an4 liu2
+迫近的險亂	po4 jin4 de5 xian3 luan4
+激揚的韌戰	ji1 yang2 de5 ren4 zhan4
+海祇之島	hai3 qi2 zhi1 dao3
+溢彩華庭	yi4 cai3 hua2 ting2
+和平的祝願	he2 ping2 de5 zhu4 yuan4
+遠離塵囂	yuan3 li2 chen2 xiao1
+信步行時	xin4 bu4 xing2 shi2
+清潭鏡澄	qing1 tan2 jing4 cheng2
+待訴說的傳說	dai4 su4 shuo1 de5 chuan2 shuo1
+唯餘遺恨	wei2 yu2 yi2 hen4
+良夜岑寂	liang2 ye4 cen2 ji4
+煢煢行路	qiong2 qiong2 xing2 lu4
+淡月疏星共寂寥	dan4 yue4 shu1 xing1 gong4 ji4 liao2
+孤獨的迴響	gu1 du2 de5 hui2 xiang3
+悲切的低語	bei1 qie4 de5 di1 yu3
+平靜的心緒	ping2 jing4 de5 xin1 xu4
+寧然一隅	ning2 ran2 yi1 yu2
+寢子的夢	qin3 zi3 de5 meng4
+俗世佳餚	su2 shi4 jia1 yao2
+鳴神囃子	ming2 shen2 zha2 zi3
+謹言慎行	jin3 yan2 shen4 xing2
+靜思之所	jing4 si1 zhi1 suo3
+對永恆的冥想	dui4 yong3 heng2 de5 ming2 xiang3
+如墮霓霧	ru2 duo4 ni2 wu4
+物是人非	wu4 shi4 ren2 fei1
+潸悵的幽影	shan1 chang4 de5 you1 ying3
+霧鎖煙迷	wu4 suo3 yan1 mi2
+弭節徘徊	mi3 jie2 pai2 huai2
+曲徑探幽	qu1 jing4 tan4 you1
+褪淡的餘憶	tui4 dan4 de5 yu2 yi4
+溫情的遙憶	wen1 qing2 de5 yao2 yi4
+阿瑠的歌	a1 liu2 de5 ge1
+狹徑縋幽	xia2 jing4 zhui4 you1
+湮沒的憶念	yan1 mo4 de5 yi4 nian4
+重淵之深	chong2 yuan1 zhi1 shen1
+晦蒙幽光	hui4 meng2 you1 guang1
+遊旅哀絲	you2 lv3 ai1 si1
+逝川流光	shi4 chuan1 liu2 guang1
+惚恍疑夢	hu1 huang3 yi2 meng4
+塵夢迷漾	chen2 meng4 mi2 yang4
+霧沉海瞑	wu4 chen2 hai3 ming2
+冥幽的細語	ming2 you1 de5 xi4 yu3
+逝往的凝望	shi4 wang3 de5 ning2 wang4
+荒墟的緬述	huang1 xu1 de5 mian3 shu4
+長夜難明	chang2 ye4 nan2 ming2
+昔時頹響	xi1 shi2 tui2 xiang3
+狹間的縈思	xia2 jian1 de5 ying2 si1
+沉流之航	chen2 liu2 zhi1 hang2
+無明無夜	wu2 ming2 wu2 ye4
+昏曉流易	hun1 xiao3 liu2 yi4
+哀致淵永	ai1 zhi4 yuan1 yong3
+白夜的子民	bai2 ye4 de5 zi3 min2
+常世之國	chang2 shi4 zhi1 guo2
+祈望與鄉魂	qi2 wang4 yu3 xiang1 hun2
+哀息之繭	ai1 xi1 zhi1 jian3
+燃燼之舞	ran2 jin4 zhi1 wu3
+薙除雜妄	ti4 chu2 za2 wang4
+雷霆的威光	lei2 ting2 de5 wei1 guang1
+稻光神鳴	dao4 guang1 shen2 ming2
+寒光裂濤	han2 guang1 lie4 tao1
+鯨波鼉浪	jing1 bo1 tuo2 lang4
+背水一戰	bei4 shui3 yi1 zhan4
+捷疾之業	jie2 ji2 zhi1 ye4
+送往迎來	song4 wang3 ying2 lai2
+盡在吾輩	jin4 zai4 wu2 bei4
+暗夜幽影	an4 ye4 you1 ying3
+法獸趵趵	fa3 shou4 bao1 bao1
+冰封的徽記	bing1 feng1 de5 hui1 ji4
+浪沫起舞	lang4 mo4 qi3 wu3
+夏日虹彩	xia4 ri4 hong2 cai3
+荒波椛葉	huang1 bo1 hua4 ye4
+流風無涯	liu2 feng1 wu2 ya2
+風儀之舞	feng1 yi2 zhi1 wu3
+貉貉大作戰	he2 he2 da4 zuo4 zhan4
+霎那雋永	sha4 na4 juan4 yong3
+硝華流焰	xiao1 hua2 liu2 yan4
+轟雷的意志	hong1 lei2 de5 yi4 zhi4
+新世界的獵手	xin1 shi4 jie4 de5 lie4 shou3
+聰明徇智	cong1 ming2 xun4 zhi4
+眠龍醒心	mian2 long2 xing3 xin1
+赤膽昭忠	chi4 dan3 zhao1 zhong1
+悵然之夢	chang4 ran2 zhi1 meng4
+何妄何執	he2 wang4 he2 zhi2
+神女劈觀·喚情	shen2 nv3 pi1 guan1 · huan4 qing2
+華燈星聚	hua4 deng1 xing1 ju4
+稻妻	dao4 qi1
+葉落荒波	ye4 luo4 huang1 bo1
+羈留之客	ji1 liu2 zhi1 ke4
+風雅之裡	feng1 ya3 zhi1 li3
+永遠的花火	yong3 yuan3 de5 hua1 huo3
+靜謐的國土	jing4 mi4 de5 guo2 tu3
+異鄉之櫻	yi4 xiang1 zhi1 ying1
+恒靜之夢	heng2 jing4 zhi1 meng4
+華散之夢	hua4 san4 zhi1 meng4
+鳴神的思慮	ming2 shen2 de5 si1 lv4
+神秘之島	shen2 mi4 zhi1 dao3
+餘溫尚存	yu2 wen1 shang4 cun2
+未曾失落的回憶	wei4 ceng2 shi1 luo4 de5 hui2 yi4
+綿延的守護	mian2 yan2 de5 shou3 hu4
+悠遠的關懷	you1 yuan3 de5 guan1 huai2
+華散之緣	hua4 san4 zhi1 yuan2
+終有謝時	zhong1 you3 xie4 shi2
+雷櫻閃閃	lei2 ying1 shan3 shan3
+故人的哀嗔	gu4 ren2 de5 ai1 chen1
+閉鎖之港	bi4 suo3 zhi1 gang3
+外人之島	wai4 ren2 zhi1 dao3
+商人的思歸	shang1 ren2 de5 si1 gui1
+鄉愁如絲	xiang1 chou2 ru2 si1
+祭典將至	ji4 dian3 jiang1 zhi4
+硝彩回憶	xiao1 cai3 hui2 yi4
+林間清流	lin2 jian1 qing1 liu2
+可待追憶	ke3 dai4 zhui1 yi4
+安寧的天光	an1 ning2 de5 tian1 guang1
+神狐的祝福	shen2 hu2 de5 zhu4 fu2
+神願之所	shen2 yuan4 zhi1 suo3
+空寂如常	kong1 ji4 ru2 chang2
+翩翩之庭	pian1 pian1 zhi1 ting2
+白鷺風儀	bai2 lu4 feng1 yi2
+天領奉行禦帳前	tian1 ling3 feng4 xing2 yu4 zhang4 qian2
+營壘森森	ying2 lei3 sen1 sen1
+無家之傷	wu2 jia1 zhi1 shang1
+傷痛的事話	shang1 tong4 de5 shi4 hua4
+寂靜的證言	ji4 jing4 de5 zheng4 yan2
+無靈魂處的靈魂	wu2 ling2 hun2 chu4 de5 ling2 hun2
+八醞之民	ba1 yun4 zhi1 min2
+湮沒之音	yan1 mo4 zhi1 yin1
+無可試探	wu2 ke3 shi4 tan4
+無神的丘塚	wu2 shen2 de5 qiu1 zhong3
+失語的哀訴	shi1 yu3 de5 ai1 su4
+葛藤無奈滿石垣	ge2 teng2 wu2 nai4 man3 shi2 yuan2
+荒丘殘月陰翳濃	huang1 qiu1 can2 yue4 yin1 yi4 nong2
+哀哉鼓角未曾歇	ai1 zai1 gu3 jiao3 wei4 ceng2 xie1
+義軍之砦	yi4 jun1 zhi1 zhai4
+堅毅的行軍	jian1 yi4 de5 xing2 jun1
+名椎之灘	ming2 zhui1 zhi1 tan1
+擱淺的願景	ge1 qian3 de5 yuan4 jing3
+碌碌殘影	lu4 lu4 can2 ying3
+虛空的處境	xu1 kong1 de5 chu3 jing4
+祟神低語	sui4 shen2 di1 yu3
+犧牲的教諭	xi1 sheng1 de5 jiao4 yu4
+雷隱遺事	lei2 yin3 yi2 shi4
+亡者的訴說	wang2 zhe3 de5 su4 shuo1
+熟悉的航程	shu2 xi1 de5 hang2 cheng2
+斬霧破竹	zhan3 wu4 po4 zhu2
+難逃之陣	nan2 tao2 zhi1 zhen4
+空行不羈	kong1 xing2 bu4 ji1
+驅敵逐北	qu1 di2 zhu2 bei3
+希望的航程	xi1 wang4 de5 hang2 cheng2
+廣袤的晴空	guang3 mao4 de5 qing2 kong1
+微波輕搖	wei1 bo1 qing1 yao2
+遠航入夢	yuan3 hang2 ru4 meng4
+海風細語	hai3 feng1 xi4 yu3
+小憩沙灘	xiao3 qi4 sha1 tan1
+海島精靈	hai3 dao3 jing1 ling2
+水母之歌	shui3 mu3 zhi1 ge1
+難得的靜謐	nan2 de2 de5 jing4 mi4
+海螺中的回音	hai3 luo2 zhong1 de5 hui2 yin1
+謹慎的探索	jin3 shen4 de5 tan4 suo3
+光彩漸逝的故事	guang1 cai3 jian4 shi4 de5 gu4 shi4
+閒適的陪伴	xian2 shi4 de5 pei2 ban4
+往昔的訴說	wang3 xi1 de5 su4 shuo1
+遙遠的囑託	yao2 yuan3 de5 zhu3 tuo1
+烈風的序章	lie4 feng1 de5 xu4 zhang1
+火花的初遇	huo3 hua1 de5 chu1 yu4
+無慮無猜的歲月	wu2 lv4 wu2 cai1 de5 sui4 yue4
+歡愉的源泉	huan1 yu2 de5 yuan2 quan2
+美食尋蹤	mei3 shi2 xun2 zong1
+小小惡作劇	xiao3 xiao3 e4 zuo4 ju4
+微醺的回憶	wei1 xun1 de5 hui2 yi4
+狼般的少年	lang2 ban1 de5 shao4 nian2
+秣馬厲兵	mo4 ma3 li4 bing1
+候汝久時	hou4 ru3 jiu3 shi2
+星知曉的舊夢	xing1 zhi1 xiao3 de5 jiu4 meng4
+爐邊小憩	lu2 bian1 xiao3 qi4
+兇險的密謀	xiong1 xian3 de5 mi4 mou2
+吟游詩人的把戲	yin2 you2 shi1 ren2 de5 ba3 xi4
+女士駕臨	nv3 shi4 jia4 lin2
+希望的和風	xi1 wang4 de5 he2 feng1
+白日夢的漣漪	bai2 ri4 meng4 de5 lian2 yi1
+重歸青天的歌	chong2 gui1 qing1 tian1 de5 ge1
+岩主的驟崩	yan2 zhu3 de5 zhou4 beng1
+天權為尊	tian1 quan2 wei2 zun1
+意料之外的救星	yi4 liao4 zhi1 wai4 de5 jiu4 xing1
+異鄉的歸書	yi4 xiang1 de5 gui1 shu1
+蒲葦如絲	pu2 wei3 ru2 si1
+不凍的激浪	bu4 dong4 de5 ji1 lang4
+永無謝幕的演出	yong3 wu2 xie4 mu4 de5 yan3 chu1
+斬破風暴的魔鯨	zhan3 po4 feng1 bao4 de5 mo2 jing1
+同漩渦共舞	tong2 xuan2 wo1 gong4 wu3
+天遒歌	tian1 qiu2 ge1
+岩壑之崩	yan2 he4 zhi1 beng1
+珍珠之歌	zhen1 zhu1 zhi1 ge1
+隕落之星	yun3 luo4 zhi1 xing1
+浮浪人的心機	fu2 lang4 ren2 de5 xin1 ji1
+直面紛爭的狂喜	zhi2 mian4 fen1 zheng1 de5 kuang2 xi3
+魔王武裝	mo2 wang2 wu3 zhuang1
+黃金沉眠之處	huang2 jin1 chen2 mian2 zhi1 chu4
+玉影徘徊	yu4 ying3 pai2 huai2
+掩月之閣	yan3 yue4 zhi1 ge2
+凱歌的前奏	kai3 ge1 de5 qian2 zou4
+高貴的訣別	gao1 gui4 de5 jue2 bie2
+柔情留憶	rou2 qing2 liu2 yi4
+寒寂中盛放	han2 ji4 zhong1 sheng4 fang4
+夜叉的回敘	ye4 cha1 de5 hui2 xu4
+災厄的一擊	zai1 e4 de5 yi1 ji1
+深淵下的離別	shen1 yuan1 xia4 de5 li2 bie2
+遊擊騎士	you2 ji1 qi2 shi4
+磐巒的惡意	pan2 luan2 de5 e4 yi4
+創龍點睛	chuang4 long2 dian3 jing1
+特瓦林，抵達!	te4 wa3 lin2 ， di3 da2 !
+盛夏樂園	sheng4 xia4 le4 yuan2
+夏日新冒險!	xia4 ri4 xin1 mao4 xian3 !
+山巔雪國的記憶	shan1 dian1 xue3 guo2 de5 ji4 yi4
+命定的離別	ming4 ding4 de5 li2 bie2
+雪掩的往事	xue3 yan3 de5 wang3 shi4
+銀白的希望	yin2 bai2 de5 xi1 wang4
+霜的精靈	shuang1 de5 jing1 ling2
+在夢鄉重聚	zai4 meng4 xiang1 chong2 ju4
+冰下的碎夢	bing1 xia4 de5 sui4 meng4
+遺忘的流風	yi2 wang4 de5 liu2 feng1
+寒潮的餘響	han2 chao2 de5 yu2 xiang3
+極寒的險地	ji2 han2 de5 xian3 di4
+雪暴中迷途	xue3 bao4 zhong1 mi2 tu2
+隱匿的凶兆	yin3 ni4 de5 xiong1 zhao4
+靜謐的廳堂	jing4 mi4 de5 ting1 tang2
+山林的故園	shan1 lin2 de5 gu4 yuan2
+未完成的畫作	wei4 wan2 cheng2 de5 hua4 zuo4
+冰風的獨舞	bing1 feng1 de5 du2 wu3
+雪國的終曲	xue3 guo2 de5 zhong1 qu3
+色彩的記憶	se4 cai3 de5 ji4 yi4
+皎潔的笑顏	jiao3 jie2 de5 xiao4 yan2
+詩人的工作	shi1 ren2 de5 gong1 zuo4
+真紅騎士，出發！	zhen1 hong2 qi2 shi4 ， chu1 fa1 ！
+童夢歷險記	tong2 meng4 li4 xian3 ji4
+烈火急烹	lie4 huo3 ji2 peng1
+永夜的序曲	yong3 ye4 de5 xu4 qu3
+夏宮靈囿	xia4 gong1 ling2 you4
+度厄童子	du4 e4 tong2 zi3
+星天的預告	xing1 tian1 de5 yu4 gao4
+埃阿斯的回信	ai1 a1 si1 de5 hui2 xin4
+自雪國而來	zi4 xue3 guo2 er2 lai2
+獨家特調	du2 jia1 te4 diao4
+迸發的熾焰	beng4 fa1 de5 chi4 yan4
+霆霓快雨	ting2 ni2 kuai4 yu3
+白皚中的冥想	bai2 ai2 zhong1 de5 ming2 xiang3
+創生的靈慧	chuang4 sheng1 de5 ling2 hui4
+麟躍幽岩	lin2 yue4 you1 yan2
+塵世閒遊	chen2 shi4 xian2 you2
+璃月	li2 yue4
+杯中明月	bei1 zhong1 ming2 yue4
+商港的閒暇	shang1 gang3 de5 xian2 xia2
+環佩憑欄望千帆	huan2 pei4 ping2 lan2 wang4 qian1 fan1
+璃月的日出	li2 yue4 de5 ri4 chu1
+晚安，璃月	wan3 an1 ， li2 yue4
+璃月的一日將盡	li2 yue4 de5 yi1 ri4 jiang1 jin4
+璃月的晴空	li2 yue4 de5 qing2 kong1
+晶瑩可掇	jing1 ying2 ke3 duo1
+北國的寶庫	bei3 guo2 de5 bao3 ku4
+品茗嘗清心	pin3 ming2 chang2 qing1 xin1
+美夢撫歸人	mei3 meng4 fu3 gui1 ren2
+逶迤綠水長	wei1 yi2 lv4 shui3 chang2
+輕波微蕩	qing1 bo1 wei1 dang4
+釣客漫歌	diao4 ke4 man4 ge1
+源流匯響	yuan2 liu2 hui4 xiang3
+幽谷多芳草	you1 gu3 duo1 fang1 cao3
+多情東逝	duo1 qing2 dong1 shi4
+山陰漫步	shan1 yin1 man4 bu4
+古道笛聲	gu3 dao4 di2 sheng1
+清晝細雨	qing1 zhou4 xi4 yu3
+竹林的輕語	zhu2 lin2 de5 qing1 yu3
+不復回的傳說	bu4 fu4 hui2 de5 chuan2 shuo1
+歸客的輕歌	gui1 ke4 de5 qing1 ge1
+離原之草	li2 yuan2 zhi1 cao3
+原上狐鳴	yuan2 shang4 hu2 ming2
+懷鄉的原野	huai2 xiang1 de5 yuan2 ye3
+希望的明日	xi1 wang4 de5 ming2 ri4
+小小的光	xiao3 xiao3 de5 guang1
+寬懷的傳說	kuan1 huai2 de5 chuan2 shuo1
+曖曖含光	ai4 ai4 han2 guang1
+潮汐浮夢	chao2 xi1 fu2 meng4
+隨海風而來	sui2 hai3 feng1 er2 lai2
+山風拂蘿衣	shan1 feng1 fu2 luo2 yi1
+不再年輕的村莊	bu4 zai4 nian2 qing1 de5 cun1 zhuang1
+倦飛之鳥	juan4 fei1 zhi1 niao3
+追尋仙跡	zhui1 xun2 xian1 ji4
+無心出岫	wu2 xin1 chu1 xiu4
+峭岩作歌	qiao4 yan2 zuo4 ge1
+雲海之上	yun2 hai3 zhi1 shang4
+偷閒浮生	tou1 xian2 fu2 sheng1
+亭台閒坐	ting2 tai2 xian2 zuo4
+偶遇歸人	ou3 yu4 gui1 ren2
+白鶴之飛	bai2 he4 zhi1 fei1
+天霽日出	tian1 ji4 ri4 chu1
+虹霞垂天	hong2 xia2 chui2 tian1
+清泉入雲海	qing1 quan2 ru4 yun2 hai3
+仙家獨酌	xian1 jia1 du2 zhuo2
+洞府徘徊	dong4 fu3 pai2 huai2
+風靜雲起	feng1 jing4 yun2 qi3
+岩間對飲	yan2 jian1 dui4 yin3
+山路青苔	shan1 lu4 qing1 tai2
+雲間孤鴻	yun2 jian1 gu1 hong2
+仙人的棋局	xian1 ren2 de5 qi2 ju2
+幽澗泠泠	you1 jian4 ling2 ling2
+浮影掠光映百合	fu2 ying3 lve4 guang1 ying4 bai3 he2
+青雲流風飾霓裳	qing1 yun2 liu2 feng1 shi4 ni2 chang2
+孑立的群岩	jie2 li4 de5 qun2 yan2
+悠遠的鳥鳴	you1 yuan3 de5 niao3 ming2
+悠古的腳步	you1 gu3 de5 jiao3 bu4
+山間回望	shan1 jian1 hui2 wang4
+沉睡的往昔	chen2 shui4 de5 wang3 xi1
+黯然的城塞	an4 ran2 de5 cheng2 sai4
+孤獨的漫行者	gu1 du2 de5 man4 xing2 zhe3
+失落的願景	shi1 luo4 de5 yuan4 jing3
+壺中洞天	hu2 zhong1 dong4 tian1
+疾如猛火	ji2 ru2 meng3 huo3
+激流逐浪	ji1 liu2 zhu2 lang4
+鮮衣遊俠	xian1 yi1 you2 xia2
+寧靜的黃昏	ning2 jing4 de5 huang2 hun1
+風的傳說	feng1 de5 chuan2 shuo1
+風所愛之城	feng1 suo3 ai4 zhi1 cheng2
+蒙德城繁忙的午後	meng2 de2 cheng2 fan2 mang2 de5 wu3 hou4
+蒙德的黃昏	meng2 de2 de5 huang2 hun1
+星光下的蒙德	xing1 guang1 xia4 de5 meng2 de2
+蒙德的月光	meng2 de2 de5 yue4 guang1
+蒙德的又一日	meng2 de2 de5 you4 yi1 ri4
+風帶來的聖歌	feng1 dai4 lai2 de5 sheng4 ge1
+西風騎士團	xi1 feng1 qi2 shi4 tuan2
+天使的饋贈	tian1 shi3 de5 kui4 zeng4
+剪影與躡步	jian3 ying3 yu3 nie4 bu4
+危險的小徑	wei1 xian3 de5 xiao3 jing4
+直面	zhi2 mian4
+呃，這可沒想到…	e4 ， zhe4 ke3 mei2 xiang3 dao4 …
+有趣的挑戰	you3 qu4 de5 tiao3 zhan4
+速度加快	su4 du4 jia1 kuai4
+開心的一天	kai1 xin1 de5 yi1 tian1
+低語森林的重逢	di1 yu3 sen1 lin2 de5 chong2 feng2
+震驚	zhen4 jing1
+初遇安柏	chu1 yu4 an1 bo2
+風暴降臨	feng1 bao4 jiang4 lin2
+淡淡的不安	dan4 dan4 de5 bu4 an1
+同伴的力量	tong2 ban4 de5 li4 liang4
+將至的凱歌	jiang1 zhi4 de5 kai3 ge1
+情不自禁	qing2 bu4 zi4 jin1
+旅途的開始	lv3 tu2 de5 kai1 shi3
+晨曦酒莊	chen2 xi1 jiu3 zhuang1
+破曉前的流光	po4 xiao3 qian2 de5 liu2 guang1
+見慣的風景	jian4 guan4 de5 feng1 jing3
+飾金的夜色	shi4 jin1 de5 ye4 se4
+平原的低語	ping2 yuan2 de5 di1 yu3
+七天神像	qi1 tian1 shen2 xiang4
+命運的初識	ming4 yun4 de5 chu1 shi2
+月亮處盜來的歌	yue4 liang5 chu4 dao4 lai2 de5 ge1
+旅人的暫歇	lv3 ren2 de5 zan4 xie1
+風洗的群山	feng1 xi3 de5 qun2 shan1
+不散的魂靈	bu4 san4 de5 hun2 ling2
+追憶	zhui1 yi4
+烈日之殘響	lie4 ri4 zhi1 can2 xiang3
+一段回憶	yi1 duan4 hui2 yi4
+地平	di4 ping2
+靜候未來	jing4 hou4 wei4 lai2
+月照的荒野	yue4 zhao4 de5 huang1 ye3
+希望的新一天	xi1 wang4 de5 xin1 yi1 tian1
+希望之旅	xi1 wang4 zhi1 lv3
+萬古之風的棄兒	wan4 gu3 zhi1 feng1 de5 qi4 er2
+太古時光的遺孤	tai4 gu3 shi2 guang1 de5 yi2 gu1
+午日的眺望	wu3 ri4 de5 tiao4 wang4
+久住往昔	jiu3 zhu4 wang3 xi1
+永恆的回憶	yong3 heng2 de5 hui2 yi4
+光輝的漲落	guang1 hui1 de5 zhang3 luo4
+解決之道	jie3 jue2 zhi1 dao4
+亙古的韻律	gen4 gu3 de5 yun4 lv4
+無盡的迴響	wu2 jin4 de5 hui2 xiang3
+沖啊！無畏的勇士	chong1 a1 ！ wu2 wei4 de5 yong3 shi4
+水滴的節拍	shui3 di1 de5 jie2 pai1
+魔導的深秘	mo2 dao3 de5 shen1 mi4
+無數的逆境	wu2 shu4 de5 ni4 jing4
+不休的風航	bu4 xiu1 de5 feng1 hang2
+乘風前行	cheng2 feng1 qian2 xing2
+冰風回蕩	bing1 feng1 hui2 dang4
+冰封交響曲	bing1 feng1 jiao1 xiang3 qu3
+原神	yuan2 shen2
+甜美的微笑	tian2 mei3 de5 wei1 xiao4
+風暴，高塔與聖地	feng1 bao4 ， gao1 ta3 yu3 sheng4 di4
+終天的閉幕曲	zhong1 tian1 de5 bi4 mu4 qu3
+孤獨的旅居	gu1 du2 de5 lv3 ju1
+蒙德的一日	meng2 de2 de5 yi1 ri4
+夢之詠歎	meng4 zhi1 yong3 tan4
+青空	qing1 kong1
+平原的邊際	ping2 yuan2 de5 bian1 ji4
+特瓦林與杜林	te4 wa3 lin2 yu3 du4 lin2
+戰鬥的秘儀	zhan4 dou4 de5 mi4 yi2
+騎士的義舉	qi2 shi4 de5 yi4 ju3
+快樂的旅程	kuai4 le4 de5 lv3 cheng2
+捕風的異鄉人	bu3 feng1 de5 yi4 xiang1 ren2
+
+休暑且縱意	xiu1 shu3 qie3 zong4 yi4
+悠適的光景	you1 shi4 de guang1 jing3
+蜜漿初釀	mi4 jiang1 chu1 niang4
+鋪巷間的信步	pu1 xiang4 jian1 de xin4 bu4
+如雲團飄悠	ru2 yun2 tuan2 piao1 you1
+午日慵眠	wu3 ri4 yong1 mian2
+餘溫駐丘原	yu2 wen1 zhu4 qiu1 yuan2
+彩染的綺繪	cai3 ran3 de qi3 hui4
+依風翩翻	yi1 feng1 pian1 fan1
+柔睦的晚夢	rou2 mu4 de wan3 meng4
+如盛夏般絢縵	ru2 sheng4 xia4 ban1 xuan4 man4
+熱際率舞	re4 ji4 shuai4 wu3
+客船悠悠搖曳	ke4 chuan2 you1 you1 yao2 ye4
+海垂的珠貝	hai3 chui2 de zhu1 bei4
+宿浪撫沙岸	su4 lang4 fu3 sha1 an4
+沐泳鰭波	mu4 yong3 qi2 bo1
+不綿的守望	bu4 mian2 de shou3 wang4
+灼日下的決鬥	zhuo2 ri4 xia4 de jue2 dou4
+飄塵的崖壑	piao1 chen2 de ya2 he4
+飫飲後的醺酣	yu4 yin3 hou4 de xun1 han1
+晴光漫野	qing2 guang1 man4 ye3
+入港的煦風	ru4 gang3 de xu4 feng1
+藏於海貝的心緒	zang4 yu2 hai3 bei4 de xin1 xu4
+軟沙印下憶記	ruan3 sha1 yin4 xia4 yi4 ji4
+海潮的閒歌	hai3 chao2 de xian2 ge1
+細浪所訴的遐思	xi4 lang4 suo3 su4 de xia2 si1
+煨燼之燧	wei1 jin4 zhi1 sui4
+辯言與讱默的對峙	bian4 yan2 yu3 ren4 mo4 de dui4 zhi4
+宴飲皆世間	yan4 yin3 jie1 shi4 jian1
+列陣珍馐	lie4 zhen4 zhen1 xiu1
+簇擁的暖意	cu4 yong1 de nuan3 yi4
+幕布下的映夢	mu4 bu4 xia4 de ying4 meng4
+鏽紅的注目	xiu4 hong2 de zhu2 mu4
+歌弦裡的故星	ge1 xian2 li3 de gu4 xing1
+罅隙邊緣的孑影	xia4 xi4 bian1 yuan2 de jie2 ying3
+過客的軌途	guo4 ke4 de gui3 tu2
+臨界遊弋	lin2 jie4 you2 yi4
+滯於一剎的嘆息	zhi4 yu2 yi1 cha4 de tan4 xi1
+懸於獵人之鉤	xuan2 yu2 lie4 ren2 zhi1 gou1
+流動的饗宴	liu2 dong4 de xiang3 yan4
+覆子之上	fu4 zi3 zhi1 shang4
+逆行的秘徑	ni4 xing2 de mi4 jing4
+傷痍與沉寂	shang1 yi2 yu3 chen2 ji4
+始末的微光	shi3 mo4 de wei1 guang1
+膺受的資質	ying1 shou4 de zi1 zhi4
+古昔的災虞	gu3 xi1 de zai1 yu2
+良時易逝	liang2 shi2 yi4 shi4
+閃爍的笑顏	shan3 shuo4 de xiao4 yan2
+繫心之諾	xi4 xin1 zhi1 nuo4
+黃金城的禱頌	huang2 jin1 cheng2 de dao3 song4
+臨月茶敘	lin2 yue4 cha2 xu4
+無謬之果	wu2 miu4 zhi1 guo3
+如高天安固	ru2 gao1 tian1 an1 gu4
+塹黑將沉時	qian4 hei1 jiang1 chen2 shi2
+囿於棋格中	you4 yu2 qi2 ge2 zhong1
+方寸顛倒	fang1 cun4 dian1 dao3
+累棋之危	lei3 qi2 zhi1 wei1
+梭巡於淵隙	suo1 xun2 yu2 yuan1 xi4
+燹火的祈詠歌	xian3 huo3 de qi2 yong3 ge1
+
+
+# 挪德卡萊一
+挪德卡萊	nuo2 de2 ka3 lai2
+繁沸之港	fan2 fei4 zhi1 gang3
+銀鷗的回旋	yin2 ou1 de5 hui2 xuan2
+船歌優穩	chuan2 ge1 you1 wen3
+冀求之意	ji4 qiu2 zhi1 yi4
+飛觥走斝	fei1 gong1 zou3 jia3
+海舶歸港	hai3 bo2 gui1 gang3
+白夜洇潤	bai2 ye4 yin1 run4
+靜佇的海嶠	jing4 zhu4 de5 hai3 qiao4
+飄曳的眠夢	piao1 ye4 de5 mian2 meng4
+浮槃與藍穹的秘話	fu2 pan2 yu3 lan2 qiong2 de5 mi4 hua4
+閒飲酣適	xian2 yin3 han1 shi4
+錘砧間的音符	chui2 zhen1 jian1 de5 yin1 fu2
+暫刻的時光	zan4 ke4 de5 shi2 guang1
+夜闌安暇時	ye4 lan2 an1 xia2 shi2
+向晚的丘甸	xiang4 wan3 de5 qiu1 dian4
+初焙的恬脆	chu1 bei4 de5 tian2 cui4
+詩境所蘊的舊事	shi1 jing4 suo3 yun4 de5 jiu4 shi4
+湖色映藍	hu2 se4 ying4 lan2
+謐寧如鏡水	mi4 ning2 ru2 jing4 shui3
+鱗光倏爍	lin2 guang1 shu1 shuo4
+幽芒駐息	you1 mang2 zhu4 xi1
+新月的搖籃曲（其一）：伴月同眠	xin1 yue4 de5 yao2 lan2 qu3 qi2 yi1 : ban4 yue4 tong2 mian2
+新月的搖籃曲（其二）：宵暉下的笑顏	xin1 yue4 de5 yao2 lan2 qu3 qi2 er4 : xiao1 hui1 xia4 de5 xiao4 yan2
+新月的搖籃曲（其三）：眉間落英	xin1 yue4 de5 yao2 lan2 qu3 qi2 san1 : mei2 jian1 luo4 ying1
+遙月孤清	yao2 yue4 gu1 qing1
+近月讚詠	jin4 yue4 zan4 yong3
+皎亮的邊野	jiao3 liang4 de5 bian1 ye3
+蒙澤的遐裔	meng2 ze2 de5 xia2 yi4
+清輝下的參禮	qing1 hui1 xia4 de5 can1 li3
+仰月所昭之路	yang3 yue4 suo3 zhao1 zhi1 lu4
+曦光所引	xi1 guang1 suo3 yin3
+涉行之刻	she4 xing2 zhi1 ke4
+晚禱的鈴歌	wan3 dao3 de5 ling2 ge1
+風中的軍壘	feng1 zhong1 de5 jun1 lei3
+升於隕圮	sheng1 yu2 yun3 pi3
+冬霰銳冽	dong1 xian4 rui4 lie4
+戒禁之域	jie4 jin4 zhi1 yu4
+初霜涓漣	chu1 shuang1 juan1 lian2
+列島的曉風	lie4 dao3 de5 xiao3 feng1
+縈思隨白帆	ying2 si1 sui2 bai2 fan1
+寒湧的佇望	han2 yong3 de5 zhu4 wang4
+岬石與細浪之舞	jia3 shi2 yu3 xi4 lang4 zhi1 wu3
+濱海拂風	bin1 hai3 fu2 feng1
+夕景伴歸途	xi1 jing3 ban4 gui1 tu2
+雨月夜想	yu3 yue4 ye4 xiang3
+苔骨的寒籟	tai2 gu3 de5 han2 lai4
+遊步欣愉	you2 bu4 xin1 yu2
+愁緒謐息	chou2 xu4 mi4 xi1
+牽夢的別緒	qian1 meng4 de5 bie2 xu4
+自外而至	zi4 wai4 er2 zhi4
+藎草之途	jin4 cao3 zhi1 tu2
+暮雨的沫痕	mu4 yu3 de5 mo4 hen2
+壤土下的安居	rang3 tu3 xia4 de5 an1 ju1
+未然的樂土	wei4 ran2 de5 le4 tu3
+述往心的霜盞	shu4 wang3 xin1 de5 shuang1 zhan3
+白樺與清水之夢	bai2 hua4 yu3 qing1 shui3 zhi1 meng4
+霧鄉哀語	wu4 xiang1 ai1 yu3
+詠月者的謊言	yong3 yue4 zhe3 de5 huang3 yan2
+荒落的祀歌	huang1 luo4 de5 si4 ge1
+綠丘煥然	lv4 qiu1 huan4 ran2
+風挾的預兆	feng1 xie2 de5 yu4 zhao4
+石下暗湧	shi2 xia4 an4 yong3
+如霞的鹽沼	ru2 xia2 de5 yan2 zhao3
+澈夜低徊	che4 ye4 di1 huai2
+煦寒的惦念	xu4 han2 de5 dian4 nian4
+駐息的孤影	zhu4 xi1 de5 gu1 ying3
+哀煢如靄	ai1 qiong2 ru2 ai3
+海蝕的幽廊	hai3 shi2 de5 you1 lang2
+深岩隱歌	shen1 yan2 yin3 ge1
+千湖與月的秘徑	qian1 hu2 yu3 yue4 de5 mi4 jing4
+死蔭的黯色	si3 yin4 de5 an4 se4
+聖儀默示之所	sheng4 yi2 mo4 shi4 zhi1 suo3
+空待的重逢	kong1 dai4 de5 chong2 feng2
+纖輝之紡	xian1 hui1 zhi1 fang3
+皎晶澄凝	jiao3 jing1 cheng2 ning2
+惶悚的灼念	huang2 song3 de5 zhuo2 nian4
+匿行潛蹤	ni4 xing2 qian2 zong1
+災焰忽起	zai1 yan4 hu1 qi3
+瓦礫與喧聲	wa3 li4 yu3 xuan1 sheng1
+鼓盪的街鎮	gu3 dang4 de5 jie1 zhen4
+櫃上的淑女	gui4 shang4 de5 shu1 nv3
+永夜與破曉的誓刃	yong3 ye4 yu3 po4 xiao3 de5 shi4 ren4
+雪浪馳逐	xue3 lang4 chi2 zhu2
+切心的渴求	qie4 xin1 de5 ke3 qiu2
+蒼銀的聖咒	cang1 yin2 de5 sheng4 zhou4
+鐵鑄的洪流	tie3 zhu4 de5 hong2 liu2
+詭影蟄動	gui3 ying3 zhe2 dong4
+實力碾鴨！	shi2 li4 nian3 ya1 !
+未相逢的再遇	wei4 xiang1 feng2 de5 zai4 yu4
+深水中的偉業	shen1 shui3 zhong1 de5 wei3 ye4
+白晝將臨	bai2 zhou4 jiang1 lin2
+巨砲鏗轟	ju4 pao4 keng1 hong1
+深黯與幽火	shen1 an4 yu3 you1 huo3
+凶妄的夙念	xiong1 wang4 de5 su4 nian4
+淑女的證明，或數秘的交誼舞	shu1 nv3 de5 zheng4 ming2 , huo4 shu4 mi4 de5 jiao1 yi4 wu3
+束光似水	shu4 guang1 si4 shui3
+誓勇之心	shi4 yong3 zhi1 xin1
+邊地的守望者	bian1 di4 de5 shou3 wang4 zhe3
+幽燈所及之崖	you1 deng1 suo3 ji2 zhi1 ya2
+名為燈塔的希望	ming2 wei2 deng1 ta3 de5 xi1 wang4
+冬臨之夜，燈臨之夜	dong1 lin2 zhi1 ye4 , deng1 lin2 zhi1 ye4
+柔月下的暗鴉	rou2 yue4 xia4 de5 an4 ya1
+無憂之眠	wu2 you1 zhi1 mian2
+泊船入夢	bo2 chuan2 ru4 meng4
+茶會之餘	cha2 hui4 zhi1 yu2
+仙境的夜想	xian1 jing4 de5 ye4 xiang3
+深宵未明	shen1 xiao1 wei4 ming2
+正如彼所見證	zheng4 ru2 bi3 suo3 jian4 zheng4
+放逐者的吟詠	fang4 zhu2 zhe3 de5 yin2 yong3
+暮月雨時	mu4 yue4 yu3 shi2
+晨昏雜詠	chen2 hun1 za2 yong3
+浪遊之夜	lang4 you2 zhi1 ye4
+牧歌如夢	mu4 ge1 ru2 meng4
+朔風漸明	shuo4 feng1 jian4 ming2
+西風之歌	xi1 feng1 zhi1 ge1
+曦光碎影	xi1 guang1 sui4 ying3
+晨鐘初禱	chen2 zhong1 chu1 dao3
+頌予邊地的日光	song4 yu3 bian1 di4 de5 ri4 guang1
+枯葉飛旋	ku1 ye4 fei1 xuan2
+眾人炬火之焰	zhong4 ren2 ju4 huo3 zhi1 yan4
+霧鄉之誓	wu4 xiang1 zhi1 shi4
+遙遙明夜之途	yao2 yao2 ming2 ye4 zhi1 tu2
+崖上薄暮	ya2 shang4 bo2 mu4
+朔風流月之擁	shuo4 feng1 liu2 yue4 zhi1 yong3
+謐銀鈴歌	mi4 yin2 ling2 ge1
+露水與沉夜	lu4 shui3 yu3 chen2 ye4
+極北的餘音	ji2 bei3 de5 yu2 yin1
+苦厄荒途	ku3 e4 huang1 tu2
+噬身的魔魘	shi4 shen1 de5 mo2 yan3
+燈影之外	deng1 ying3 zhi1 wai4
+戰歌吟唱時	zhan4 ge1 yin2 chang4 shi2
+亡者的行進	wang2 zhe3 de5 xing2 jin4
+噩夢的預兆	e4 meng4 de5 yu4 zhao4
+陌路遺蹤	mo4 lu4 yi2 zong1
+棄墜者的孤旅	qi4 zhui4 zhe3 de5 gu1 lv3
+匣中魍魎	xia2 zhong1 wang3 liang3
+與殘月同沉	yu3 can2 yue4 tong2 chen2
+命運不曾允諾	ming4 yun4 bu4 ceng2 yun3 nuo4
+校準實驗中	xiao4 zhun3 shi2 yan4 zhong1
+似紗月光的愁緒	si4 sha1 yue4 guang1 de5 chou2 xu4
+共襄餘慶之刻	gong4 xiang1 yu2 qing4 zhi1 ke4
+垂懸的傀絲	chui2 xuan2 de5 kui3 si1
+魔女的奇思遐想	mo2 nv3 de5 qi2 si1 xia2 xiang3
+如生之不竭	ru2 sheng1 zhi1 bu4 jie2
+萬千星火的歡宴	wan4 qian1 xing1 huo3 de5 huan1 yan4
+月光的讚美詩	yue4 guang1 de5 zan4 mei3 shi1
+月之謎，月之夢	yue4 zhi1 mi2 , yue4 zhi1 meng4
+月墟塵往	yue4 xu1 chen2 wang3
+奇械的追憶	qi2 xie4 de5 zhui1 yi4
+三有虛妄	san1 you3 xu1 wang4
+四不可說	si4 bu4 ke3 shuo1
+行狩遺傷	xing2 shou4 yi2 shang1
+流浪人的夜歌	liu2 lang4 ren2 de5 ye4 ge1
+月盡天明	yue4 jin4 tian1 ming2
+無救的垂憐	wu2 jiu4 de5 chui2 lian2
+謐息的片縷	mi4 xi1 de5 pian4 lv3
+紡予你的道路	fang3 yu3 ni3 de5 dao4 lu4
+祈月將升	qi2 yue4 jiang1 sheng1
+寂落的約定	ji4 luo4 de5 yue1 ding4
+無始無明	wu2 shi3 wu2 ming2
+淚水、聖徒、謝幕	lei4 shui3 、 sheng4 tu2 、 xie4 mu4
+銜枝的歸途	xian2 zhi1 de5 gui1 tu2
+妄盡還源	wang4 jin4 huan2 yuan2
+啟明的祀奉	qi3 ming2 de5 si4 feng4
+不虞之隙	bu4 yu2 zhi1 xi4
+月失星散	yue4 shi1 xing1 san4
+未至的報贖	wei4 zhi2 de5 bao4 shu2
+七見斷滅智論抄	qi1 jian4 duan4 mie4 zhi4 lun4 chao1
+白鴿之詩	bai2 ge1 zhi1 shi1
+野馬塵埃	ye3 ma3 chen2 ai1
+爛柯胥夢	lan4 ke1 xu1 meng4
+燈月如故	deng1 yue4 ru2 gu4
+月照燈影闌珊處	yue4 zhao4 deng1 ying3 lan2 shan1 chu4
+雲樓煙靄月斜白	yun2 lou2 yan1 ai3 yue4 xie2 bai2
+朏魄光映處	fei3 po4 guang1 ying4 chu4
+詹諸張幕遮銀闕	zhan1 zhu1 zhang1 mu4 zhe1 yin2 que4
+銀花玉鑑逐人來	yin2 hua1 yu4 jian4 zhu2 ren2 lai2
+一宵歲起明日新	yi1 xiao1 sui4 qi3 ming2 ri4 xin1
+環佩琳瑯	huan2 pei4 lin2 lang2
+夢的彼方	meng4 de5 bi3 fang1
+九十八隨眠觀	jiu3 shi2 ba1 sui2 mian2 guan1
+健體之誨	jian4 ti3 zhi1 hui4
+勇氣的饗宴	yong3 qi4 de5 xiang3 yan4
+颯勇的豪鬥	sa4 yong3 de5 hao2 dou4
+祛疾的清風	qu1 ji2 de5 qing1 feng1
+蛋糕上的櫻桃	dan4 gao1 shang4 de5 ying1 tao2
+五味交響	wu3 wei4 jiao1 xiang3
+風拂水留痕	feng1 fu2 shui3 liu2 hen2
+死生的終點	si3 sheng1 zhi1 zhong1 dian3
+亙古的極星	gen4 gu3 de5 ji2 xing1
+霓夜連踡	ni2 ye4 lian2 quan2
+陋巷間的樂園	lou4 xiang4 jian1 de5 le4 yuan2
+明晨，明晨	ming2 chen2 , ming2 chen2
+山椒與梭魚之戰	shan1 jiao1 yu3 suo1 yu2 zhi1 zhan4
+巧思暇逸	qiao3 si1 xia2 yi4
+若月尚未升起	ruo4 yue4 shang4 wei4 sheng1 qi3
+銀雪與聖林的回舞	yin2 xue3 yu3 sheng4 lin2 de5 hui2 wu3
+夤夜秘話	yin2 ye4 mi4 hua4
+逝往蒼焰	shi4 wang3 cang1 yan4
+織秘之覓	zhi1 mi4 zhi1 mi4
+熱砂的倦戲	re4 sha1 de5 juan4 xi4
+互助方案！	hu4 zhu4 fang1 an4 !
+未盡的心語	wei4 jin4 de5 xin1 yu3
+完遂的美夢	wan2 sui4 de5 mei3 meng4
+晴雲似絮	qing2 yun2 si4 xu4
+終宴不知疲	zhong1 yan4 bu4 zhi1 pi2
+別夜尋月	bie2 ye4 xun2 yue4
+獻向鏡水的月光	xian4 xiang4 jing4 shui3 de5 yue4 guang1
+
+
+# 挪二
+誓勇之心	shi4 yong3 zhi1 xin1
+邊地的守望者	bian1 di4 de5 shou3 wang4 zhe3
+幽燈所及之崖	you1 deng1 suo3 ji2 zhi1 ya2
+名為燈塔的希望	ming2 wei2 deng1 ta3 de5 xi1 wang4
+冬臨之夜，燈臨之夜	dong1 lin2 zhi1 ye4 , deng1 lin2 zhi1 ye4
+柔月下的暗鴉	rou2 yue4 xia4 de5 an4 ya1
+無憂之眠	wu2 you1 zhi1 mian2
+泊船入夢	bo2 chuan2 ru4 meng4
+茶會之餘	cha2 hui4 zhi1 yu2
+仙境的夜想	xian1 jing4 de5 ye4 xiang3
+深宵未明	shen1 xiao1 wei4 ming2
+正如彼所見證	zheng4 ru2 bi3 suo3 jian4 zheng4
+放逐者的吟詠	fang4 zhu2 zhe3 de5 yin2 yong3
+暮月雨時	mu4 yue4 yu3 shi2
+晨昏雜詠	chen2 hun1 za2 yong3
+浪遊之夜	lang4 you2 zhi1 ye4
+牧歌如夢	mu4 ge1 ru2 meng4
+朔風漸明	shuo4 feng1 jian4 ming2
+西風之歌	xi1 feng1 zhi1 ge1
+曦光碎影	xi1 guang1 sui4 ying3
+晨鐘初禱	chen2 zhong1 chu1 dao3
+頌予邊地的日光	song4 yu3 bian1 di4 de5 ri4 guang1
+枯葉飛旋	ku1 ye4 fei1 xuan2
+眾人炬火之焰	zhong4 ren2 ju4 huo3 zhi1 yan4
+霧鄉之誓	wu4 xiang1 zhi1 shi4
+遙遙明夜之途	yao2 yao2 ming2 ye4 zhi1 tu2
+崖上薄暮	ya2 shang4 bo2 mu4
+朔風流月之擁	shuo4 feng1 liu2 yue4 zhi1 yong3
+謐銀鈴歌	mi4 yin2 ling2 ge1
+露水與沉夜	lu4 shui3 yu3 chen2 ye4
+極北的餘音	ji2 bei3 de5 yu2 yin1
+苦厄荒途	ku3 e4 huang1 tu2
+噬身的魔魘	shi4 shen1 de5 mo2 yan3
+燈影之外	deng1 ying3 zhi1 wai4
+戰歌吟唱時	zhan4 ge1 yin2 chang4 shi2
+亡者的行進	wang2 zhe3 de5 xing2 jin4
+噩夢的預兆	e4 meng4 de5 yu4 zhao4
+陌路遺蹤	mo4 lu4 yi2 zong1
+棄墜者的孤旅	qi4 zhui4 zhe3 de5 gu1 lv3
+匣中魍魎	xia2 zhong1 wang3 liang3
+與殘月同沉	yu3 can2 yue4 tong2 chen2
+命運不曾允諾	ming4 yun4 bu4 ceng2 yun3 nuo4
+校準實驗中	xiao4 zhun3 shi2 yan4 zhong1
+似紗月光的愁緒	si4 sha1 yue4 guang1 de5 chou2 xu4
+共襄餘慶之刻	gong4 xiang1 yu2 qing4 zhi1 ke4
+垂懸的傀絲	chui2 xuan2 de5 kui3 si1
+魔女的奇思遐想	mo2 nv3 de5 qi2 si1 xia2 xiang3
+如生之不竭	ru2 sheng1 zhi1 bu4 jie2
+萬千星火的歡宴	wan4 qian1 xing1 huo3 de5 huan1 yan4
+月光的讚美詩	yue4 guang1 de5 zan4 mei3 shi1
+月之謎，月之夢	yue4 zhi1 mi2 , yue4 zhi1 meng4
+月墟塵往	yue4 xu1 chen2 wang3
+奇械的追憶	qi2 xie4 de5 zhui1 yi4
+三有虛妄	san1 you3 xu1 wang4
+四不可說	si4 bu4 ke3 shuo1
+行狩遺傷	xing2 shou4 yi2 shang1
+流浪人的夜歌	liu2 lang4 ren2 de5 ye4 ge1
+月盡天明	yue4 jin4 tian1 ming2
+無救的垂憐	wu2 jiu4 de5 chui2 lian2
+謐息的片縷	mi4 xi1 de5 pian4 lv3
+紡予你的道路	fang3 yu3 ni3 de5 dao4 lu4
+祈月將升	qi2 yue4 jiang1 sheng1
+寂落的約定	ji4 luo4 de5 yue1 ding4
+無始無明	wu2 shi3 wu2 ming2
+淚水、聖徒、謝幕	lei4 shui3 、 sheng4 tu2 、 xie4 mu4
+銜枝的歸途	xian2 zhi1 de5 gui1 tu2
+妄盡還源	wang4 jin4 huan2 yuan2
+啟明的祀奉	qi3 ming2 de5 si4 feng4
+不虞之隙	b4 yu2 zhi1 xi4
+月失星散	yue4 shi1 xing1 san4
+未至的報贖	wei4 zhi2 de5 bao4 shu2
+七見斷滅智論抄	qi1 jian4 duan4 mie4 zhi4 lun4 chao1
+白鴿之詩	bai2 ge1 zhi1 shi1
+野馬塵埃	ye3 ma3 chen2 ai1
+爛柯胥夢	lan4 ke1 xu1 meng4
+燈月如故	deng1 yue4 ru2 gu4
+月照燈影闌珊處	yue4 zhao4 deng1 ying3 lan2 shan1 chu4
+雲樓煙靄月斜白	yun2 lou2 yan1 ai3 yue4 xie2 bai2
+朏魄光映處	fei3 po4 guang1 ying4 chu4
+詹諸張幕遮銀闕	zhan1 zhu1 zhang1 mu4 zhe1 yin2 que4
+銀花玉鑑逐人來	yin2 hua1 yu4 jian4 zhu2 ren2 lai2
+一宵歲起明日新	yi1 xiao1 sui4 qi3 ming2 ri4 xin1
+環佩琳瑯	huan2 pei4 lin2 lang2
+夢的彼方	meng4 de5 bi3 fang1
+九十八隨眠觀	jiu3 shi2 ba1 sui2 mian2 guan1
+健體之誨	jian4 ti3 zhi1 hui4
+勇氣的饗宴	yong3 qi4 de5 xiang3 yan4
+颯勇的豪鬥	sa4 yong3 de5 hao2 dou4
+祛疾的清風	qu1 ji2 de5 qing1 feng1
+蛋糕上的櫻桃	dan4 gao1 shang4 de5 ying1 tao2
+五味交響	wu3 wei4 jiao1 xiang3
+風拂水留痕	feng1 fu2 shui3 liu2 hen2
+死生的終點	si3 sheng1 zhi1 zhong1 dian3
+亙古的極星	gen4 gu3 de5 ji2 xing1
+霓夜連踡	ni2 ye4 lian2 quan2
+陋巷間的樂園	lou4 xiang4 jian1 de5 le4 yuan2
+明晨，明晨	ming2 chen2 , ming2 chen2
+山椒與梭魚之戰	shan1 jiao1 yu3 suo1 yu2 zhi1 zhan4
+巧思暇逸	qiao3 si1 xia2 yi4
+若月尚未升起	ruo4 yue4 shang4 wei4 sheng1 qi3
+銀雪與聖林的回舞	yin2 xue3 yu3 sheng4 lin2 de5 hui2 wu3
+夤夜秘話	yin2 ye4 mi4 hua4
+逝往蒼焰	shi4 wang3 cang1 yan4
+織秘之覓	zhi1 mi4 zhi1 mi4
+熱砂的倦戲	re4 sha1 de5 juan4 xi4
+互助方案！	hu4 zhu4 fang1 an4 !
+未盡的心語	wei4 jin4 de5 xin1 yu3
+完遂的美夢	wan2 sui4 de5 mei3 meng4
+晴雲似絮	qing2 yun2 si4 xu4
+終宴不知疲	zhong1 yan4 bu4 zhi1 pi2
+別夜尋月	bie2 ye4 xun2 yue4
+獻向鏡水的月光	xian4 xiang4 jing4 shui3 de5 yue4 guang1
+
+克勞雅利亞	ke4 lao2 ya3 li4 ya4
+
+# 珍珠之歌6
+自穹蒼而來	zi4 qiong2 cang1 er2 lai2
+降入深冥	jiang4 ru4 shen1 ming2
+失色的流嵐	shi1 se4 de5 liu2 lan2
+身光微暗	shen1 guang1 wei1 an4
+無穢的欣求	wu2 hui4 de5 xin1 qiu2
+別離本無期	bie2 li2 ben3 wu2 qi1
+歲云夕矣	sui4 yun2 xi1 yi3
+金屋餘哀	jin1 wu1 yu2 ai1
+空夢至誠	kong1 meng4 zhi4 cheng2
+永夜的悼挽	yong3 ye4 de5 dao4 wan3
+須臾的舒閒	xu1 yu2 de5 shu1 xian2
+塵落如雨	chen2 luo4 ru2 yu3
+舊年不復	jiu4 nian2 bu4 fu4
+地上的仰望	di4 shang4 de5 yang3 wang4
+四十萬里的遠行	si4 shi2 wan4 li3 de5 yuan3 xing2
+八十世界環月旅	ba1 shi2 shi4 jie4 huan2 yue4 lv3
+孤棹一聲	gu1 zhao4 yi1 sheng1
+空花浮漚	kong1 hua1 fu2 ou1
+寂石的哀憶	ji4 shi2 de5 ai1 yi4
+此去幾時歸	ci3 qu4 ji3 shi2 gui1
+豐饒之海	feng1 rao2 zhi1 hai3
+斜月如水	xie2 yue4 ru2 shui3
+籠中遺事	long2 zhong1 yi2 shi4
+月階杳杳	yue4 jie1 yao3 yao3
+淪滅的懸詩	lun2 mie4 de5 xuan2 shi1
+無言的憂懼	wu2 yan2 de5 you1 ju4
+死夜深黯	si3 ye4 shen1 an4
+望月者的心願	wang4 yue4 zhe3 de5 xin1 yuan4
+晴波躍金	qing2 bo1 yue4 jin1
+松籟入港	song1 lai4 ru4 gang3
+蔚然夢縈	wei4 ran2 meng4 ying2
+幽獨的喧囂	you1 du2 de5 xuan1 xiao1
+鈴風的柔歌	ling2 feng1 de5 rou2 ge1
+春序將臨	chun1 xu4 jiang1 lin2
+夜詠歸途	ye4 yong3 gui1 tu2
+鄉謠漸闌	xiang1 yao2 jian4 lan2
+致幸福的願景	zhi4 xing4 fu2 de5 yuan4 jing3
+墮天，或早至的憂愁	duo4 tian1 , huo4 zao3 zhi4 de5 you1 chou2
+失佚的遙途	shi1 yi4 de5 yao2 tu2
+歲時何處	sui4 shi2 he2 chu4
+生年不滿百	sheng1 nian2 bu4 man3 bai3
+七獄空待	qi1 yu4 kong1 dai4
+晚來雲似墨	wan3 lai2 yun2 si4 mo4
+一畫開天	yi1 hua4 kai1 tian1
+縑緗萬軸	jian1 xiang1 wan4 zhou2
+騎士王的誓言	qi2 shi4 wang2 de5 shi4 yan2
+無想天變	wu2 xiang3 tian1 bian4
+法性隨妄	fa3 xing4 sui2 wang4
+寄予風的信箋	ji4 yu3 feng1 de5 xin4 jian1
+風息的離別詩	feng1 xi1 de5 li2 bie2 shi1
+是耶非耶	shi4 ye2 fei1 ye2
+未決的隱謎	wei4 jue2 de5 yin3 mi2
+防意如城	fang2 yi4 ru2 cheng2
+萬金難挽	wan4 jin1 nan2 wan3
+淚盡夜終	lei4 jin4 ye4 zhong1
+淑女最後的答案	shu1 nv3 zui4 hou4 de5 da2 an4
+千星遠爍時	qian1 xing1 yuan3 shuo4 shi2
+靈光照夢	ling2 guang1 zhao4 meng4
+形貌的隨想	xing2 mao4 de5 sui2 xiang3
+頌願的輕唱	song4 yuan4 de5 qing1 chang4
+狂歡的幽響	kuang2 huan1 de5 you1 xiang3
+燭影夜遊	zhu2 ying3 ye4 you2
+靜謐雪庭	jing4 mi4 xue3 ting2
+雲端衛城	yun2 duan1 wei4 cheng2
+鱗鋒的破鳴	lin2 feng1 de5 po4 ming2
+烽燧陣線	feng1 sui4 zhen4 xian4
+花舞蝶宮	hua1 wu3 die2 gong1
+遺世海嶼	yi2 shi4 hai3 yu3
+聽憑風引	ting1 ping2 feng1 yin3
+霜結的進軍	shuang1 jie2 de5 jin4 jun1
+雲映遠天斜照明	yun2 ying4 yuan3 tian1 xie2 zhao4 ming2
+妙慧無染	miao4 hui4 wu2 ran3
+六解一亡	liu4 jie3 yi1 wang2
+我法俱有自性頌	wo3 fa3 ju4 you3 zi4 xing4 song4
+火界三昧	huo3 jie4 san1 mei4
+眾罪如霜露	zhong4 zui4 ru2 shuang1 lu4
+星之所誕	xing1 zhi1 suo3 dan4
+遐方不待	xia2 fang1 bu4 dai4
+鏡子的另一側	jing4 zi5 de5 ling4 yi1 ce4
+水仙十字終曲	shui3 xian1 shi2 zi4 zhong1 qu3
+假如她夢到你	jia3 ru2 ta1 meng4 dao4 ni3
+夜客的致禮	ye4 ke4 de5 zhi4 li3
+待至冬臨	dai4 zhi4 dong1 lin2
+群魔的行進	qun2 mo2 de5 xing2 jin4
+冬日的安魂歌	dong1 ri4 de5 an1 hun2 ge1
+鐵鑄的洪流（變奏）	tie3 zhu4 de5 hong2 liu2 ( bian4 zou4 )
+冰封交響曲（變奏）	bing1 feng1 jiao1 xiang3 qu3 ( bian4 zou4 )
+西風之歌（合奏）	xi1 feng1 zhi1 ge1 ( he2 zou4 )
+天光的外典	tian1 guang1 de5 wai4 dian3
+八苦相顯	ba1 ku3 xiang4 xian3
+十界一念無二論	shi2 jie4 yi1 nian4 wu2 er4 lun4
+寂夜月如鋒	ji4 ye4 yue4 ru2 feng1
+
+# 憫宥慈憐之垠
+憫宥慈憐之垠	min3 you4 ci2 lian2 zhi1 yin2
+至冬	zhi4 dong1
+銀晝寒光	yin2 zhou4 han2 guang1
+夜隱曉至	ye4 yin3 xiao3 zhi4
+零露漙然	ling2 lu4 tuan2 ran2
+隙光浮影	xi4 guang1 fu2 ying3
+黑雪鵠的夜夢	hei1 xue3 hu2 de5 ye4 meng4
+無眠之惘	wu2 mian2 zhi1 wang3
+琴弦呀，琴弦	qin2 xian2 ya5 , qin2 xian2
+雪中蜂鳴	xue3 zhong1 feng1 ming2
+自由頌（巴揚版）	zi4 you2 song4 ( ba1 yang2 ban3 )
+切莫與摯愛分離	qie4 mo4 yu3 zhi4 ai4 fen1 li2
+命運的謔言	ming4 yun4 de5 xue4 yan2
+車廂對白	che1 xiang1 dui4 bai2
+鷹之謠詠	ying1 zhi1 yao2 yong3
+戍望者的歌	shu4 wang4 zhe3 de5 ge1
+爐灰與鑽石	lu2 hui1 yu3 zuan4 shi2
+爐邊遐思	lu2 bian1 xia2 si1
+我曾經愛過你（管弦樂版）	wo3 ceng2 jing1 ai4 guo4 ni3 ( guan3 xian2 yue4 ban3 )
+自由頌	zi4 you2 song4
+水上挽月	shui3 shang4 wan3 yue4
+我曾經愛過你	wo3 ceng2 jing1 ai4 guo4 ni3
+麵包與鹽的盛待	mian4 bao1 yu3 yan2 de5 sheng4 dai4
+雪封的暗流	xue3 feng1 de5 an4 liu2
+榮光懋勳	rong2 guang1 mao4 xun1
+夏至火升騰	xia4 zhi4 huo3 sheng1 teng2
+蒼鏑呈光	cang1 di1 cheng2 guang1
+爐煙闐衢	lu2 yan1 tian2 qu2
+攘來熙往	rang3 lai2 xi1 wang3
+夜街、燈火與藥店	ye4 jie1 , deng1 huo3 yu3 yao4 dian4
+燃燒的蠟炬	ran2 shao1 de5 la4 ju4
+環遊的信使	huan2 you2 de5 xin4 shi3
+曙暮相銜	shu3 mu4 xiang1 xian2
+墜葉與晚星	zhui4 ye4 yu3 wan3 xing1
+夜港燈明時	ye4 gang3 deng1 ming2 shi2
+叩冰墾壤	kou4 bing1 ken3 rang3
+故事中的故事	gu4 shi5 zhong1 de5 gu4 shi5
+昳影之間	yi4 ying3 zhi1 jian1
+圓滾滾大冒險	yuan2 gun3 gun3 da4 mao4 xian3
+當鸛鳥飛過	dang1 guan4 niao3 fei1 guo4
+往年鐘鳴	wang3 nian2 zhong1 ming2
+無淚的哀聲	wu2 lei4 de5 ai1 sheng1
+沒有英雄的敘事詩	mei2 you3 ying1 xiong2 de5 xu4 shi4 shi1
+凝冰的高庭	ning2 bing1 de5 gao1 ting2
+在荒涼的北國	zai4 huang1 liang2 de5 bei3 guo2
+荒山皚皚	huang1 shan1 ai2 ai2
+睡鄉長夢	shui4 xiang1 chang2 meng4
+凡雪終融	fan2 xue3 zhong1 rong2
+冰如垂棘	bing1 ru2 chui2 ji2
+如靄似檬	ru2 ai3 si4 meng2
+渴家的小枝椏	ke3 jia1 de5 xiao3 zhi1 ya1
+荒谷之日	huang1 gu3 zhi1 ri4
+肉身的麥粒	rou4 shen1 de5 mai4 li4
+思想的苦酒	si1 xiang3 de5 ku3 jiu3
+嘆往月光	tan4 wang3 yue4 guang1
+愛得其所	ai4 de2 qi2 suo3
+小小霜精大家庭	xiao3 xiao3 shuang1 jing1 da4 jia1 ting2
+迴環的水波	hui2 huan2 de5 shui3 bo1
+固執的冰風	gu4 zhi2 de5 bing1 feng1
+疾行銳進	ji2 xing2 rui4 jin4
+砥志研想	di3 zhi4 yan2 xiang3
+拂向柔風	fu2 xiang4 rou2 feng1
+雪色的再會	xue3 se4 de5 zai4 hui4
+織於霧中的吟詠	zhi1 yu2 wu4 zhong1 de5 yin2 yong3
+脊骨之笛	ji3 gu3 zhi1 di2
+致松針	zhi4 song1 zhen1
+落雪無聲	luo4 xue3 wu2 sheng1
+白日已在暗中	bai2 ri4 yi3 zai4 an4 zhong1
+燒燈續晝	shao1 deng1 xu4 zhou4
+極光的約定	ji2 guang1 de5 yue1 ding4
+雪撫夜霜	xue3 fu3 ye4 shuang1
+如沐月中	ru2 mu4 yue4 zhong1
+墜歡莫拾	zhui4 huan1 mo4 shi2
+星與舫的幽歌	xing1 yu3 fang3 de5 you1 ge1
+白樺林的夜曲	bai2 hua4 lin2 de5 ye4 qu3
+當晚霞染紅枝頭	dang1 wan3 xia2 ran3 hong2 zhi1 tou2
+空寂的迴響	kong1 ji4 de5 hui2 xiang3
+猶在鏡中	you2 zai4 jing4 zhong1
+應無所往	ying1 wu2 suo3 wang3
+月上水影	yue4 shang4 shui3 ying3
+潮汐藻歌	chao2 xi1 zao3 ge1
+相逐妄出	xiang1 zhu2 wang4 chu1
+奧黛塔，快陪我去堆個雪人吧	ao4 dai4 ta3 , kuai4 pei2 wo3 qu4 dui1 ge5 xue3 ren2 ba5
+謬誤與缺誤	miu4 wu4 yu3 que1 wu4
+疑似之間	yi2 si4 zhi1 jian1
+渡往幽世	du4 wang3 you1 shi4
+某與某的辯題	mou3 yu3 mou3 de5 bian4 ti2
+失魂靈的渡口	shi1 hun2 ling2 de5 du4 kou3
+無吟者的詩章	wu2 yin2 zhe3 de5 shi1 zhang1
+蒼白的騎行	cang1 bai2 de5 qi2 xing2
+未束的誓言	wei4 shu4 de5 shi4 yan2
+念當終亡	nian4 dang1 zhong1 wang2
+無恆無生	wu2 heng2 wu2 sheng1
+既知身是夢	ji4 zhi1 shen1 shi4 meng4
+歸向雪都	gui1 xiang4 xue3 du1
+冰湖的凱旋禮	bing1 hu2 de5 kai3 xuan2 li3
+掣風攬熠	che4 feng1 lan3 yi4
+馭光裁影	yu4 guang1 cai2 ying3
+不死不滅之賜	bu4 si3 bu4 mie4 zhi1 ci4
+落幕的贈禮	luo4 mu4 de5 zeng4 li3

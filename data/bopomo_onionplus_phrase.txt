@@ -1,0 +1,41 @@
+# Rime table
+# coding: utf-8
+#@/db_name  bopomo_onionplus_phrase.txt
+#@/db_type	tabledb
+#
+# 用於【朙月拼音】系列輸入方案
+# 【小狼毫】0.9.21 以上
+#
+# 請將該文件以UTF-8編碼保存爲
+# Rime用戶文件夾/bopomo_onionplus_phrase.txt
+#
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+#中州韻輸入法引擎	rime	3
+#中文標點符號新增與移前起始
+# no comment
+#🌏【 ✦ 洋蔥注音 p̂lüs 版 ✦ 】📡	11
+星穹鐵道	vf
+moontrial20@gmail.com	e2
+2018ubi@gmail.com	e1
+哈哈哈哈哈哈	cccc
+975305420	gu
+800701893	hu
+U122213572	u12
+花蓮縣吉安鄉稻香村2鄰稻香六街7巷3號	2u5
+ #include<iostream>	c1
+using namespace std;	c2
+vscode	vsc
+c++	cx
+//	//
+.cpp	.cpp
+cpp	cpp
+%appdata%	5	1
+%TEMP%	5	2
+HOYO-MiX	hoyo	1
+这样啊	dd	1
+怎么会	dd	2
+嗯	dd	3
+好像也是	dd	4
